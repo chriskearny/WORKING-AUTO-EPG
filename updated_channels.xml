@@ -1,0 +1,1292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channels><channel site="tvpassport.com" lang="el" xmltv_id="Odyssey.ca" site_id="odyssey/412">Odyssey</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WAAYDT1.us" site_id="abc-waay-huntsville-al-hd/5758">ABC (WAAY) Huntsville, AL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WABCDT1.us" site_id="abc-wabc-new-york-ny-hd/4553">ABC (WABC) New York, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WABGDT1.us" site_id="abc-wabg-greenville-ms-hd/8809">ABC (WABG) Greenville, MS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WABMDT2.us" site_id="abc-wabm-dt2-birmingham-al-hd/16258">ABC (WABM-DT2) Birmingham, AL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WALBDT2.us" site_id="abc-walb-dt2-albany-ga-hd/9316">ABC (WALB-DT2) Albany, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WAOWDT1.us" site_id="abc-waow-wausau-wi-hd/5784">ABC (WAOW) Wausau, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WAPTDT1.us" site_id="abc-wapt-jackson-ms-hd/15053">ABC (WAPT) Jackson, MS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WATEDT1.us" site_id="abc-wate-knoxville-tn-hd/5746">ABC (WATE) Knoxville, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WATMDT1.us" site_id="abc-watm-johnstown-pa-hd/7520">ABC (WATM) Johnstown, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WATNDT1.us" site_id="abc-watn-memphis-tn-hd/6382">ABC (WATN) Memphis, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WAWVDT1.us" site_id="abc-wawv-terre-haute-in-hd/2012">ABC (WAWV) Terre Haute, IN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBAYDT1.us" site_id="abc-wbay-green-bay-wi-hd/4897">ABC (WBAY) Green Bay, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBBJDT2.us" site_id="abc-wbbj-dt2-dvs-jackson-tn/17489">ABC (WBBJ-DT2) DVS Jackson, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBBJDT1.us" site_id="abc-wbbj-jackson-tn-hd/5790">ABC (WBBJ) Jackson, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBKBDT3.us" site_id="abc-wbkb-dt3-alpena-mi/13146">ABC (WBKB-TV3) Alpena, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBKODT1.us" site_id="abc-wbko-bowling-green-ky-hd/5792">ABC (WBKO) Bowling Green, KY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBKPDT2.us" site_id="abc-wbkp-dt2-marquette-mi/18189">ABC (WBKP-DT2) Marquette, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBMADT1.us" site_id="abc-wbma-birmingham-al-hd/9758">ABC (WBMA) Birmingham, AL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBNDDT1.us" site_id="abc-wbnd-south-bend-in-hd/16330">ABC (WBND) South Bend, IN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBOYDT2.us" site_id="abc-wboy-dt2-clarksburg-wv-hd/7491">ABC (WBOY-DT2) Clarksburg, WV HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBRZDT1.us" site_id="abc-wbrz-baton-rouge-la-hd/5764">ABC (WBRZ) Baton Rouge, LA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBUPDT1.us" site_id="abc-wbup-ishpeming-mi-hd/19899">ABC (WBUP) Ishpeming, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCDCDT1.us" site_id="abc-wcdc-adams-ma/4945">ABC (WCDC) Adams, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCHSDT1.us" site_id="abc-wchs-charleston-wv-hd/5751">ABC (WCHS) Charleston, WV HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCIVDT2.us" site_id="abc-wciv-dt2-charleston-sc-hd/5266">ABC (WCIV2) Charleston, SC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCJBDT1.us" site_id="abc-wcjb-gainesville-fl-hd/5430">ABC (WCJB) Gainesville, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCPODT1.us" site_id="abc-wcpo-cincinnati-oh-hd/3674">ABC (WCPO) Cincinnati, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCTIDT1.us" site_id="abc-wcti-new-bern-nc-hd/5647">ABC (WCTI) New Bern, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCVBDT1.us" site_id="abc-wcvb-boston-ma--canada/4035">ABC (WCVB) Boston, MA - Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDAMDT2.us" site_id="abc-wdam-dt2-laurel-ms-hd/19170">ABC (WDAM-DT2) Laurel, MS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDAYDT1.us" site_id="abc-wday-fargo-nd-hd/7515">ABC (WDAY) Fargo, ND HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDAZDT1.us" site_id="abc-wdaz-devils-lake-nd-hd/7768">ABC (WDAZ) Devil's Lake, ND HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDBBDT2.us" site_id="abc-wdbb-dt2-bessemer-al/13397">ABC (WDBB-DT2) Bessemer, AL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDHNDT1.us" site_id="abc-wdhn-dothan-al-hd/7165">ABC (WDHN) Dothan, AL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDIODT1.us" site_id="abc-wdio-duluth-mn-hd/5785">ABC (WDIO) Duluth, MN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEARDT1.us" site_id="abc-wear-pensacola-fl-hd/5749">ABC (WEAR) Pensacola, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEEKDT2.us" site_id="abc-week-dt2-peoria-il-hd/4596">ABC (WEEK-DT2) Peoria, IL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEHTDT1.us" site_id="abc-weht-evansville-in-hd/5765">ABC (WEHT) Evansville, IN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WENYDT1.us" site_id="abc-weny-elmira-ny-hd/7163">ABC (WENY) Elmira, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEVDDT1.us" site_id="abc-wevd-lp/4952">ABC (WEVD-LP) Dover, DE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEWSDT1.us" site_id="abc-wews-cleveland-oh-hd/3678">ABC (WEWS) Cleveland, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFAADT1.us" site_id="abc-wfaa-dallas-tx-hd/5417">ABC (WFAA) Dallas, TX HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFTSDT1.us" site_id="abc-wfts-tampa-bay-fl-hd/5719">ABC (WFTS) Tampa Bay, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFTVDT1.us" site_id="abc-wftv-orlando-fl-hd/5725">ABC (WFTV) Orlando, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFVXDT2.us" site_id="abc-wfvx-dt2-bangor-me/17991">ABC (WFVX-LD2) Bangor, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGGBDT1.us" site_id="abc-wggb-springfield-ma-hd/5767">ABC (WGGB) Springfield, MA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGNODT1.us" site_id="abc-wgno-new-orleans-la-hd/5737">ABC (WGNO) New Orleans, LA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGTQDT1.us" site_id="abc-wgtq-sault-ste-marie/76">ABC (WGTQ) Sault Ste. Marie, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGTUDT1.us" site_id="abc-wgtu-traverse-city-mi-hd/11454">ABC (WGTU) Traverse City, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGWWDT2.us" site_id="abc-wgww-dt2-birmingham-al-hd/18792">ABC (WGWW-DT2) Birmingham, AL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGXADT2.us" site_id="abc-wgxa-dt2-macon-ga-hd/8861">ABC (WGXA-DT2) Macon, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHAMDT1.us" site_id="abc-wham-rochester-ny-hd/5261">ABC (WHAM) Rochester, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHASDT1.us" site_id="abc-whas-louisville-ky-hd/5741">ABC (WHAS) Louisville, KY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHSVDT1.us" site_id="abc-whsv-harrisonburg-va-hd/3745">ABC (WHSV) Harrisonburg, VA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHTMDT1.us" site_id="abc-whtm-harrisburg-pa-hd/5735">ABC (WHTM) Harrisburg, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WICDDT1.us" site_id="abc-wicd-champaign-il-hd/7528">ABC (WICD) Champaign, IL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WICSDT1.us" site_id="abc-wics-springfield-il-hd/4586">ABC (WICS) Springfield, IL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WIRTDT1.us" site_id="abc-wirt-hibbing-mn/4946">ABC (WIRT) Hibbing, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WISNDT1.us" site_id="abc-wisn-milwaukee-wi-hd/6857">ABC (WISN) Milwaukee, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WIVTDT1.us" site_id="abc-wivt-binghamton-ny-hd/4745">ABC (WIVT) Binghamton, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJBFDT1.us" site_id="abc-wjbf-augusta-ga-hd/5772">ABC (WJBF) Augusta, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJCLDT1.us" site_id="abc-wjcl-savannah-ga-hd/7371">ABC (WJCL) Savannah, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJETDT1.us" site_id="abc-wjet-erie-pa-hd/7372">ABC (WJET) Erie, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJHLDT2.us" site_id="abc-wjhl-dt2-tri-cities-tnva/9538">ABC (WJHL-TV2) Tri-Cities, TN/VA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJLADT1.us" site_id="abc-wjla-district-of-columbia-hd/3741">ABC (WJLA) District of Columbia HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJRTDT1.us" site_id="abc-wjrt-flint-mi-hd/5752">ABC (WJRT) Flint, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJXXDT1.us" site_id="abc-wjxx-jacksonville-fl-hd/5713">ABC (WJXX) Jacksonville, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKBWDT1.us" site_id="abc-wkbw-buffalo-ny-hd/3581">ABC (WKBW) Buffalo, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKEFDT1.us" site_id="abc-wkef-dayton-oh-hd/8790">ABC (WKEF) Dayton, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKOWDT1.us" site_id="abc-wkow-madison-wi-hd/5759">ABC (WKOW) Madison, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKRNDT1.us" site_id="abc-wkrn-nashville-tn-hd/5731">ABC (WKRN) Nashville, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLAJDT1.us" site_id="abc-wlaj-lansing-mi-hd/5769">ABC (WLAJ) Lansing, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLNEDT1.us" site_id="abc-wlne-providence-ri-hd/5742">ABC (WLNE) Providence, RI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLOSDT1.us" site_id="abc-wlos-asheville-nc-hd/5732">ABC (WLOS) Asheville, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLOXDT1.us" site_id="abc-wlox-biloxi-ms-hd/5788">ABC (WLOX) Biloxi, MS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLQPDT1.us" site_id="abc-wlqp-lima-oh-hd/7449">ABC (WLQP) Lima, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLSDT1.us" site_id="abc-wls-chicago-il-hd/5714">ABC (WLS) Chicago, IL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMARDT1.us" site_id="abc-wmar-baltimore-md-hd/5727">ABC (WMAR) Baltimore, MD HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMBBDT1.us" site_id="abc-wmbb-panama-city-fl-hd/5787">ABC (WMBB) Panama City, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMDTDT1.us" site_id="abc-wmdt-salisbury-md-hd/8659">ABC (WMDT) Salisbury, MD HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMOWDT2.us" site_id="abc-wmow-dt2-rhinelander-wi/17892">Catchy Comedy (WMOW2) Rhinelander, WI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMTWDT1.us" site_id="abc-wmtw-auburn-me-hd/3598">ABC (WMTW) Auburn, ME HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMURDT1.us" site_id="abc-wmur-manchester-nh-hd/3655">ABC (WMUR) Manchester, NH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNCFDT1.us" site_id="abc-wncf-montgomery-al-hd/5773">ABC (WNCF) Montgomery, AL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNEPDT1.us" site_id="abc-wnep-scranton-pa-hd/5743">ABC (WNEP) Scranton, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOAYDT1.us" site_id="abc-woay-oak-hill-wv-hd/8293">ABC (WOAY) Oak Hill, WV HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOHLDT1.us" site_id="abc-wohl-lima-oh-hd/4895">ABC (WOHL) Lima, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOIDT1.us" site_id="abc-woi-des-moines-ia-hd/5755">ABC (WOI) Des Moines, IA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOLODT1.us" site_id="abc-wolo-columbia-sc-hd/4765">ABC (WOLO) Columbia, SC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WORADT2.us" site_id="abc-wora-dt2-mayaguez-puerto-rico/14789">ABC (WORA) Mayaguez, Puerto Rico</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOTVDT1.us" site_id="abc-wotv-battle-creek-mi-hd/5734">ABC (WOTV) Battle Creek, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPBFDT1.us" site_id="abc-wpbf-west-palm-beach-fl-hd/5733">ABC (WPBF) West Palm Beach, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPBNDT2.us" site_id="abc-wpbn-dt2-cadillac-mi/17670">ABC (WPBN-DT2) Cadillac, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPDEDT1.us" site_id="abc-wpde-lumberton-nc-hd/6380">ABC (WPDE) Lumberton, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPLGDT1.us" site_id="abc-wplg-miami-fl-hd/5722">ABC (WPLG) Miami, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPTADT1.us" site_id="abc-wpta-fort-wayne-in-hd/3688">ABC (WPTA) Fort Wayne, IN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPVIDT1.us" site_id="abc-wpvi-philadelphia-pa-hd/5715">ABC (WPVI) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WQADDT1.us" site_id="abc-wqad-quad-cities-ia-hd/4492">ABC (WQAD) Quad Cities, IA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WQOWDT1.us" site_id="abc-wqow-eau-claire-wi-hd/5778">ABC (WQOW) Eau Claire, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WRICDT1.us" site_id="abc-wric-richmond-va-hd/5747">ABC (WRIC) Richmond, VA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WRTVDT1.us" site_id="abc-wrtv-indianapolis-in-hd/5728">ABC (WRTV) Indianapolis, IN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSBDT1.us" site_id="abc-wsb-atlanta-ga-hd/5717">ABC (WSB) Atlanta, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSETDT1.us" site_id="abc-wset-lynchburg-va-hd/3734">ABC (WSET) Lynchburg, VA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSILDT1.us" site_id="abc-wsil-carterville-il-hd/5756">ABC (WSIL) Carterville, IL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSOCDT1.us" site_id="abc-wsoc-charlotte-nc-hd/4708">ABC (WSOC) Charlotte, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSWSDT1.us" site_id="abc-wsws-north-platte-ne/4956">ABC (WSWS) North Platte, NE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSYRDT1.us" site_id="abc-wsyr-syracuse-ny-hd/4789">ABC (WSYR) Syracuse, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSYXDT1.us" site_id="abc-wsyx-columbus-oh-hd/4731">ABC (WSYX) Columbus, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTAEDT1.us" site_id="abc-wtae-pittsburgh-pa/1392">ABC (WTAE) Pittsburgh, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTENDT1.us" site_id="abc-wten-albany-ny-hd/3706">ABC (WTEN) Albany, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTNHDT1.us" site_id="abc-wtnh-dt1-hd-new-haven-ct/2054">ABC (WTNH-DT1) HD New Haven, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTNHDT3.us" site_id="abc-wtnh-dt3-sd-new-haven-ct/17476">ABC (WTNH) SD New Haven, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTOKDT1.us" site_id="abc-wtok-meridian-ms-hd/5793">ABC (WTOK) Meridian, MS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTRFDT3.us" site_id="abc-wtrf-dt3-wheeling-wv/7453">ABC (WTRF-TV3) Wheeling, WV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVADT2.us" site_id="abc-wtva-dt2-tupelo-ms-hd/19175">ABC (WTVA-DT2) Tupelo, MS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVCDT1.us" site_id="abc-wtvc-chattanooga-tn-hd/5760">ABC (WTVC) Chattanooga, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVDDT1.us" site_id="abc-wtvd-raleigh-nc-hd/4820">ABC (WTVD) Raleigh, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVGDT1.us" site_id="abc-wtvg-toledo-oh-hd/3684">ABC (WTVG) Toledo, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVMDT1.us" site_id="abc-wtvm-columbus-ga-hd/5780">ABC (WTVM) Columbus, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVODT1.us" site_id="abc-wtvo-rockford-il-hd/5783">ABC (WTVO) Rockford, IL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVQDT1.us" site_id="abc-wtvq-lexington-ky-hd/5750">ABC (WTVQ) Lexington, KY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTXLDT1.us" site_id="abc-wtxl-tallahassee-fl-hd/5768">ABC (WTXL) Tallahassee, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WUTRDT1.us" site_id="abc-wutr-utica-ny-hd/5789">ABC (WUTR) Utica, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVAWDT1.us" site_id="abc-wvaw-charlottesville-va-hd/19185">ABC (WVAW) Charlottesville, VA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVECDT1.us" site_id="abc-wvec-norfolk-va-hd/5736">ABC (WVEC) Norfolk, VA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVIIDT1.us" site_id="abc-wvii-bangor-me-hd/10396">ABC (WVII) Bangor, ME HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVNYDT1.us" site_id="abc-wvny-burlington-vt-hd/4526">ABC (WVNY) Burlington, VT HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWAYDT1.us" site_id="abc-wway-wilmington-nc-hd/4797">ABC (WWAY) Wilmington, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWCPDT1.us" site_id="abc-wwcp-dt2-johnstown-pa/17383">ABC (WWCP-DT2) Johnstown, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWSBDT1.us" site_id="abc-wwsb-sarsota-fl-hd/5720">ABC (WWSB) Sarsota, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWTIDT1.us" site_id="abc-wwti-watertown-ny-hd/13764">ABC (WWTI) Watertown, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXLVDT1.us" site_id="abc-wxlv-winston-salem-nc-hd/4719">ABC (WXLV) Winston-Salem, NC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXOWDT1.us" site_id="abc-wxow-la-crosse-wi-hd/5777">ABC (WXOW) La Crosse, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXYZDT1.us" site_id="abc-wxyz-detroit-mi--canada-dv/3944">ABC (WXYZ) Detroit, MI - Canada DV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WYOWDT1.us" site_id="abc-wyow-eagle-river-wi/4958">ABC (WYOW) Eagle River, WI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WYTVDT1.us" site_id="abc-wytv-youngstown-oh-hd/8523">ABC (WYTV) Youngstown, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WZVNDT1.us" site_id="abc-wzvn-fort-myers-fl-hd/7654">ABC (WZVN) Fort Myers, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WZZMDT1.us" site_id="abc-wzzm-grand-rapids-mi-hd/9335">ABC (WZZM) Grand Rapids, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCMNLD1.us" site_id="accuweather-kcmn-ld-kansas-city-mo/28808">Catchy Comedy (KCMN-LD) Kansas City, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCYMLD2.us" site_id="accuweather-kcym-ld2-des-moines-ia/31057">AccuWeather (KCYM-LD3) Des Moines, IA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFVTLD3.us" site_id="accuweather-kfvt-ld3-wichita-ks/31058">Scripps News (KFVT-LD3) Wichita, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGPTDT8.us" site_id="accuweather-kgpt-dt8-wichita-ks/10147">Quest (KAGW-CD8) Wichita, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KNVNDT3.us" site_id="accuweather-knvn-dt3-chico-ca/11605">AccuWeather (KNVN5) Chico, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXMADT2.us" site_id="accuweather-kxma-dt2-dickinson-nd/18108">CW+ (KXMA) Dickinson, ND</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXMDDT3.us" site_id="accuweather-kxmd-dt3-williston-nd/18109">AccuWeather (KXMD-TV3) Williston, ND</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="W24CSD2.us" site_id="accuweather-w24cs-dt2-reading-pa/16561">AccuWeather (W24CS-D2) Reading, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WECPDT3.us" site_id="accuweather-wecp-dt3-panama-city-fl/18026">Circle (WECP-LD3) Panama City, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFEFLD2.us" site_id="accuweather-wfef-ld2-ocala-fl/31059">Cheddar (WFEF-LD2) Ocala, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFMZDT2.us" site_id="accuweather-wfmz-dt2-allentown-pa/15025">69 News Weathe (WFMZ-TV2) Allentown, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHEHLD5.us" site_id="accuweather-wheh-ld5-lumberton-nc/31060">Infomercials (WHEH-LD5) Lumberton, NC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WRCZLD6.us" site_id="accuweather-wrcz-ld6-ocala-fl/31062">ION Mystery (WRCZ-LD6) Ocala, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTXLDT3.us" site_id="accuweather-wtxl-dt3-tallahassee-fl/17446">Grit TV (WTXL-TV3) Tallahassee, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMCEast.us" site_id="amc--eastern-feed-hd/6219">AMC - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMCWest.us" site_id="amc--pacific-feed-hd/10757">AMC - Pacific Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAHCLD1.us" site_id="american-sports-kahc-ld-sacramento-ca/28154">CBN News Channel (KAHC-LD) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KBZCLD1.us" site_id="american-sports-kbzc-ld-oklahoma-city-ok/29062">Quest (KBZC-LD) Oklahoma City, OK</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCMNLD4.us" site_id="american-sports-kcmn-ld4-kansas-city-mo/31065">The Nest (KCMN-LD4) Kansas City, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCYMLD3.us" site_id="american-sports-kcym-ld3-des-moines-ia/31066">(KCYM-LD4) Des Moines, IA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KEHOLD5.us" site_id="american-sports-keho-ld5-houston-tx/31067">The Nest (KEHO-LD5) Houston, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDWWLP3.us" site_id="american-sports-wdww-lp3-cleveland-ga/31068">The Nest (WDWW-LP3) Cleveland, GA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFEFLD3.us" site_id="american-sports-wfef-ld3-ocala-fl/31069">The Nest (WFEF-LD3) Ocala, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WQDILD4.us" site_id="american-sports-wqdi-ld4-cleveland-oh/31070">beIN Sports Xtra (WQDI-LD4) Cleveland, OH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WQDTLD4.us" site_id="american-sports-wqdt-ld4-lumberton-ms/31071">The Nest (WQDT-LD4) Lumberton, MS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WQEKLD4.us" site_id="american-sports-wqek-ld4-clarksdale-ms/31072">Comet (WQEK-LD4) Clarksdale, MS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WRCZLD2.us" site_id="american-sports-wrcz-ld2-ocala-fl/31073">(WRCZ-LD2) Ocala, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVEBLD3.us" site_id="american-sports-wveb-ld3-charlotte-nc/31074">The Nest (WVEB-LD3) Charlotte, NC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WZCKLD4.us" site_id="american-sports-wzck-ld4-madison-middleton-wi/31075">Quest (WZCK-LD4) Madison-Middleton, WI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="K16CGDT4.us" site_id="amg-tv-k16cg-dt4-mankato-mn/18054">AMG-TV (K16CG-D4) Mankato, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="K26GSDT6.us" site_id="amg-tv-k26gs-dt6-harrison-ar/15801">AMG-TV (K26GS-D6) Harrison, AR</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCMNLD3.us" site_id="amg-tv-kcmn-ld3-kansas-city-mo/31076">Movies! (KCMN-LD3) Kansas City, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCTUDT5.us" site_id="amg-tv-kctu-dt5-wichita-ks/15821">URBTV (KCTU-DT5) Wichita, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDDCLD6.us" site_id="amg-tv-kddc-ld6-dodge-city-ks/31082">AMG-TV (KDDC-LD6) Dodge City, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDGLDT6.us" site_id="amg-tv-kdgl-dt6-sublette-ks/17981">AMG-TV (KDGL-LD6) Sublette, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDGULD6.us" site_id="amg-tv-kdgu-ld6-ulysses-ks/31083">AMG-TV (KDGU-LD6) Ulysses, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFVTLD2.us" site_id="amg-tv-kfvt-ld2-wichita-ks/31077">GetTV (KFVT-LD2) Wichita, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGCELD6.us" site_id="amg-tv-kgce-ld6-garden-city-ks/31084">AMG-TV (KGCE-LD6) Garden City, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KHMPDT1.us" site_id="amg-tv-khmp-pharump-nv/11478">France 24 (KHMP) Pharump, NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSDI-DT4.us" site_id="amg-tv-ksdi-dt4-fresno-ca/18113">AMG-TV (KSDI-LD4) Fresno, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCRNLD.us" site_id="amg-tv-wcrn-ld-providence-ri/30207">AMG-TV (WCRN-LD) Providence, RI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKBJLD3.us" site_id="amg-tv-wkbj-ld3-live-oak-fl/31079">Infomercials (WKBJ-LD3) Live Oak, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKFKLD3.us" site_id="amg-tv-wkfk-ld3-biloxi-ms/12428">AMG-TV (WKFK-LD3) Biloxi, MS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WQEKLD3.us" site_id="amg-tv-wqek-ld3-clarksdale-ms/31080">Movies! (WQEK-LD3) Clarksdale, MS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVEBLD4.us" site_id="amg-tv-wveb-ld4-charlotte-nc/31081">Infomercials (WVEB-LD4) Charlotte, NC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAASLP2.us" site_id="antenna-kaas-lp2-garden-city-ks/31085">MNT (KAAS-LP2) Garden City, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KBCADT2.us" site_id="antenna-kbca-dt2-alexandria-la/17413">Antenna (KBCA2) Alexandria, LA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KBFKDT7.us" site_id="antenna-kbfk-dt7-bakersfield-ca/17587">Antenna (KBFK-LP7) Bakersfield, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCBTDT7.us" site_id="antenna-kcbt-dt7-bakersfield-ca/17474">Antenna (KCBT-LD7) Bakersfield, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCHFDT4.us" site_id="antenna-kchf-dt4-santa-fe-nm/17526">KCHF-DT4 Santa Fe, NM</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDAFDT2.us" site_id="antenna-kdaf-dt2-dallas-tx/10563">Antenna (KDAF2) Dallas, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDLTDT2.us" site_id="antenna-kdlt-dt2-sioux-falls-sd/17992">Antenna (KDLT3) Sioux Falls, SD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDRVDT2.us" site_id="antenna-kdrv-dt2-medford-or/10324">Antenna (KDRV2) Medford, OR</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDVRDT2.us" site_id="antenna-kdvr-dt2-denver-colo/9016">Antenna (KDVR2) Denver, Colo</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFCTDT2.us" site_id="antenna-kfct-dt2-denver-co/14701">Antenna (KFCT2) Denver, CO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFORDT2.us" site_id="antenna-kfor-dt2-oklahoma-city-ok/11526">Antenna (KFOR-TV2) Oklahoma City, OK</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGBYDT4.us" site_id="antenna-kgby-dt4-grand-junction-co/18552">KGBY-DT4 Grand Junction, CO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGMCDT5.us" site_id="antenna-kgmc-dt5-clovis-ca/10564">Antenna (KGMC5) Clovis, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGUNDT3.us" site_id="antenna-kgun-dt3-seattle-wa/14531">Antenna (KGUN-TV3) Seattle, WA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KHNLDT2.us" site_id="antenna-khnl-dt2-honolulu-hi/11531">Antenna (KHNL3) Honolulu, HI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KHSVDT4.us" site_id="antenna-khsv-dt4-las-vegas-nv/11490">Antenna (KHSV4) Las Vegas, NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KIAHDT2.us" site_id="antenna-kiah-dt2-houston-tx/13528">Antenna (KIAH2) Houston, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KKJBDT3.us" site_id="antenna-kkjb-dt3-boise-id/18697">Antenna (KKJB3) Boise, ID</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KKRPLD2.us" site_id="antenna-kkrp-ld2-st-george-ut/31087">Antenna (KKRP-LD2) St. George, UT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KLWBDT2.us" site_id="antenna-klwb-dt2-lafayette-la/8052">Antenna (KLWB2) Lafayette, LA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMJDLD-.us" site_id="antenna-kmjd-ld-kalispell-mt/30529">Antenna (KMJD-LD) Kalispell, MT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMJFLD2.us" site_id="antenna-kmjf-ld2-columbus-ne/31088">Antenna (KMJF-LD2) Columbus, NE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KNENDT2.us" site_id="antenna-knen-dt2-sioux-city-ia/18603">Antenna (KNEN-LD2) Sioux City, IA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KNXVDT2.us" site_id="antenna-knxv-dt2-phoenix-az/10089">Antenna (KNXV-TV2) Phoenix, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPVIDT2.us" site_id="antenna-kpvi-dt2-pocatello-id/10054">Catchy Comedy (KPVI-DT2) Pocatello, ID</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPXJDT4.us" site_id="antenna-kpxj-dt4-shreveport-la/14958">Antenna (KPXJ4) Shreveport, LA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KQDSDT2.us" site_id="antenna-kqds-dt2-duluth-mn/18500">Antenna (KQDS-TV2) Duluth, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRCWDT2.us" site_id="antenna-krcw-dt2-portland-or/9732">Antenna (KRCW-TV2) Portland, OR</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRETDT4.us" site_id="antenna-kret-dt4-palm-springs-ca/11751">Antenna (KRET-CD4) Palm Springs, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSASLP2" site_id="antenna-ksas-lp-dodge-city-ks/30772">MNT (KSAS-LP2) Dodge City, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSPRDT3.us" site_id="antenna-kspr-dt3-springfield-mo/15803">MeTV (KSPR3) Springfield, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSTCDT4.us" site_id="antenna-kstc-dt4-twin-cities-mn/10726">Antenna (KSTC-TV4) Twin Cities, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSTUDT2.us" site_id="antenna-kstu-dt2-salt-lake-city-ut/14411">Antenna (KSTU2) Salt Lake City, UT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSWBDT2.us" site_id="antenna-kswb-dt2-san-diego-ca/9082">Antenna (KSWB-TV2) San Diego, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTHVDT2.us" site_id="antenna-kthv-dt2-little-rock-ar/11765">Court TV (KTHV2) Little Rock, AR</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTLADT2.us" site_id="antenna-ktla-dt2-los-angeles-ca/11204">Antenna (KTLA2) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTULDT3.us" site_id="antenna-ktul-dt3-tulsa-ok/6632">Antenna (KTUL3) Tulsa, OK</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVIDT2.us" site_id="antenna-ktvi-dt2-st-louis-mo/9438">Antenna (KTVI-DT2) St. Louis, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVNDT2.us" site_id="antenna-ktvn-dt2-reno-nv/10565">Scripps News (KTVN-DT2) Reno, NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTXLDT2.us" site_id="antenna-ktxl-dt2-sacramento-ca/9591">Antenna (KTXL2) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KVRRDT2.us" site_id="antenna-kvrr-dt2-fargo-nd/18341">Antenna (KVRR2) Fargo, ND</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KWVCLD2.us" site_id="antenna-kwvc-ld2-malaga-ect-wa/31089">Antenna (KWVC-LD2) Malaga, Ect, WA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KWWTDT3.us" site_id="antenna-kwwt-dt3-odessa-tx/12389">Antenna (KWWT3) Odessa, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXKWDT2.us" site_id="antenna-kxkw-dt2-opelousaslafayette/11138">Antenna (KXKW-LD2) Opelousas/Lafayette</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXTSDT2.us" site_id="antenna-kxts-dt2-victoria-tx/2487">Antenna (KXTS-LD) Victoria, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPHLDT2.us" site_id="antenna-wphl-dt2-philadelphia-pa/10278">Antenna (WPHL-TV2) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPIXDT2.us" site_id="antenna-wpix-dt2-new-york-ny-hd/8737">Antenna (WPIX-DT2) New York, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTXFDT4.us" site_id="buzzr-tv-wtxf-dt4-philadelphia-pa/15550">Buzzr TV (WTXF-TV4) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KYWDT1.us" site_id="cbs-kyw-philadelphia-pa-hd/8660">CBS (KYW) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCBSDT1.us" site_id="cbs-wcbs-new-york-ny-hd/4555">CBS (WCBS) New York, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPHLDT4.us" site_id="comet-tv-wphl-dt4-philadelphiapa/10279">Comet TV (WPHL-TV4) Philadelphia,PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCAUDT2.us" site_id="cozi-wcau-dt2-philadelphgia-pa/12622">Cozi TV (WCAU2) Philadelphgia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNBCDT2.us" site_id="cozi-wnbc-dt2-new-york-ny/10919">Cozi (WNBC-DT2) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLVTDT4.us" site_id="create-wlvt-dt4-bethlehem-pa/8666">Create (WLVT-TV2) Bethlehem, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPSGDT1.us" site_id="cw-wpsg-philadelphia-pa-hd/8661">WPSG Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KYWDT2.us" site_id="decades-kyw-dt2-philadelphia-pa/15300">Start TV (KYW-TV2) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNClassic.us" site_id="espn-classics-usa-hd/8816">ESPN Classics USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra2.us" site_id="espn-college-extra-2/15433">ESPN College Extra 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra6.us" site_id="espn-college-extra-6/15441">ESPN College Extra 6</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra8.us" site_id="espn-college-extra-8/15445">ESPN College Extra 8</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.us" site_id="espn-hd/3036">ESPN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNews.us" site_id="espn-news-hd/6246">ESPN News HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPU.us" site_id="espn-u-hd/6245">ESPN U HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN2.us" site_id="espn2-hd/3379">ESPN2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNYWDT1.us" site_id="fox-wnyw-new-york-ny-hd/4557">FOX (WNYW) New York, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTXFDT1.us" site_id="fox-wtxf-philadelphia-pa-hd/6738">FOX (WTXF) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOEast.us" site_id="hbo--eastern-feed/614">HBO - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOWest.us" site_id="hbo--pacific-feed/1472">HBO - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO2East.us" site_id="hbo-2--eastern-feed-hd/6313">HBO 2 - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO2West.us" site_id="hbo-2--pacific-feed-hd/6314">HBO 2 - Pacific Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO2.ca" site_id="hbo-canada--west/292">HBO Canada 2 - West</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO1.ca" site_id="hbo-canada-1-hd/4230">HBO1 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOcomedyEast.us" site_id="hbo-comedy--east/629">HBO Comedy - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOcomedyWest.us" site_id="hbo-comedy--pacific/2593">HBO Comedy - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOFamilyEast.us" site_id="hbo-family--eastern-feed-hd/7104">HBO Family - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOFamilyWest.us" site_id="hbo-family--pacific-feed-hd/8250">HBO Family - Pacific Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOFamilyWEst.us" site_id="hbo-family--pacific-feed/1216">HBO Family - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureEast.us" site_id="hbo-signature-hbo-3--eastern-hd/7099">HBO Signature (HBO 3) - Eastern HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignatureWest.us" site_id="hbo-signature-hbo-3--pacific-hd/7711">HBO Signature (HBO 3) - Pacific HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOZoneEast.us" site_id="hbo-zone--east/630">HBO Zone - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOZoneWest.us" site_id="hbo-zone--pacific/2594">HBO Zone - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFMZDT3.us" site_id="hi-wfmz-dt3-allentown-pa/13515">MeTV (WFMZ-DT3) Allentown, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPVIDT3.us" site_id="laff-wpvi-dt3-philadelphia-pa/14662">THIS (WPVI-TV3) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNYWDT4.us" site_id="light-tv-wnyw-dt4-new-york-ny/31537">The Grio (WNYW4) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPVIDT2.us" site_id="live-well-wpvi-dt2-philadelphia-pa-hd/12605">Localish (WPVI-DT2) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNYWDT3.us" site_id="mnt-wnyw-dt3-new-york-ny/17850">MNT (WNYW3) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPHLDT1.us" site_id="mnt-wphl-philadelphia-pa-hd/7168">MNT (WPHL) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNYWDT2.us" site_id="movies-wnyw-dt2-new-york-ny/11048">Movies! (WNYW2) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTXFDT2.us" site_id="movies-wtxf-dt2-philadelphia-pa/11860">Movies! (WTXF-TV2) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCAUDT1.us" site_id="nbc-wcau-philadelphia-pa-hd/6370">NBC (WCAU) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNBCDT1.us" site_id="nbc-wnbc-new-york-ny-hd/4559">NBC (WNBC) New York, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNJSDT1.us" site_id="new-jersey-pbs-wnjs-camden-nj-hd/7026">NJ PBS (WNJS) Camden, NJ HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNJTDT1.us" site_id="new-jersey-pbs-wnjt-trenton-nj-hd/7027">NJ PBS (WNJT) Trenton, NJ HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLVTDT1.us" site_id="pbs-wlvt-bethlehem-pa-hd/8664">PBS (WLVT) Bethlehem, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeEast.us" site_id="showtime--eastern-feed/665">Showtime - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Showtime2East.us" site_id="showtime-2--eastern/1387">Showtime 2 - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Showtime2West.us" site_id="showtime-2--pacific/2596">Showtime 2 - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeBeyondEast.us" site_id="showtime-beyond--eastern/2271">Showtime Showcase - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeBeyondWest.us" site_id="showtime-beyond--pacific/2585">Showtime Showcase - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeExtremeEast.us" site_id="showtime-extreme--eastern/1615">Showtime Extreme - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeExtremeWest.us" site_id="showtime-extreme--pacific/2584">Showtime Extreme - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeFamilyZoneEast.us" site_id="showtime-family-zone--eastern/1956">Showtime Family Zone - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeFamilyZoneWest.us" site_id="showtime-family-zone--pacific/2599">Showtime Family Zone - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeNextEast.us" site_id="showtime-next--eastern/2272">Showtime Next - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeNextWest.us" site_id="showtime-next--pacific/2597">Showtime Next - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeShowcaseEast.us" site_id="showtime-showcase--eastern/2077">SHOXBET - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeShowcaseWest.us" site_id="showtime-showcase--pacific/2583">SHOXBET - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWest.us" site_id="showtime-west-hd/10735">Showtime West HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWomenEast.us" site_id="showtime-women--eastern/2273">Showtime Women - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWomenWest.us" site_id="showtime-women--pacific/2598">Showtime Women - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPHLDT3.us" site_id="this-wphl-dt3-philadelphia-pa/8762">Court TV (WPHL-TV3) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPIXDT3.us" site_id="this-wpix-dt3-new-york-ny/9723">Court TV (WPIX3) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="truTVEast.us" site_id="trutv-usa--east-hd/6996">truTV USA - East HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="truTVWest.us" site_id="trutv-usa--pacific-hd/18808">truTV USA - Pacific HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLVTDT3.us" site_id="v-me-wlvt-dt3-bethlehem-pa/8665">France 24 (WLVT-DT3) Bethlehem, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFMZDT1.us" site_id="wfmz-allentown-pa-hd/7787">WFMZ-Allentown, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPIXDT1.us" site_id="wpix-new-york-superstation-hd/4794">WPIX New York (SUPERSTATION) HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="3ABNEnglish.us" site_id="three-angels-broadcasting-network/19066">Three Angels Broadcasting Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ABCSpark.ca" site_id="abc-spark/10281">ABC Spark</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AccuWeatherNOW.us" site_id="accuweather/6140">AccuWeather</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AmericanHeroesChannel.us" site_id="american-heroes-channel/2035">American Heroes Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AnimalPlanet.ca" site_id="animal-planet-canada/472">Animal Planet Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ATNARYMusik.ca" site_id="ary-musik/13698">ARY Musik</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ATNARYNews.ca" site_id="ary-news/13699">ATN - ARY News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ATNARYZauq.ca" site_id="ary-zauq/13701">ARY Zauq</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ATNSetMax.ca" site_id="set-max/6771">ATN - Set Max</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="beINSports.ca" site_id="bein-sport-canada-hd/13247">beIN Sport Canada HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BloombergTV.us" site_id="bloomberg-tv-usa/1856">Bloomberg TV USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Boomerang.us" site_id="boomerang-hd/16413">Boomerang HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CarsTV.us" site_id="carstv-hd/18803">Cars.TV HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetwork.ca" site_id="cartoon-network-canada/10613">Boomerang Network Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBATDT.ca" site_id="cbc-cbat-fredericton-nb-hd/3942">CBC (CBAT) Fredericton, NB HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBCNewsNetwork.ca" site_id="cbc-news-network/74">CBC News Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBETDT.ca" site_id="cbc-cbet-windsor-on/132">CBC (CBET) Windsor, ON</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBHTDT.ca" site_id="cbc-cbht-halifax-ns/121">CBC (CBHT) Halifax, NS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBLTDT.ca" site_id="cbc-cblt-toronto-on/34">CBC (CBLT) Toronto, ON</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBMTDT.ca" site_id="cbc-cbmt-montreal-qc/107">CBC (CBMT) Montreal, QC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBN.ca" site_id="cbn-commonwealth-broadcasting-network/4016">CBN (Commonwealth Broadcasting Network)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBOTDT.ca" site_id="cbc-cbot-ottawa-on/49">CBC (CBOT) Ottawa, ON</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBRTDT.ca" site_id="cbc-cbrt-calgary-ab/147">CBC (CBRT) Calgary, AB</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBSSportsNetworkCanada.ca" site_id="cbs-sports-network-canada/10708">CBS Sports Network Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBUTDT.ca" site_id="cbc-cbut-vancouver-bc/180">CBC (CBUT) Vancouver, BC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBWTDT.ca" site_id="cbc-cbwt-winnipeg-mb/110">CBC (CBWT) Winnipeg, MB</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBXTDT.ca" site_id="cbc-cbxt-edmonton-ab/146">CBC (CBXT) Edmonton, AB</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CHCHDT.ca" site_id="chch-hamilton-on/43">CHCH Hamilton, ON</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CHEK.ca" site_id="chek-vancouver-island-bc/183">CHEK Vancouver Island, BC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CICADT.ca" site_id="tvo-tv-ontario/18">TVO (TV Ontario)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CIHFDT.ca" site_id="global-cihf-dartmouth/115">Global (CIHF) Dartmouth</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CIIIDT.ca" site_id="global-ciii-ontario-hd/4021">Global (CIII) Ontario HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CITSDT.ca" site_id="yes-tv-cits-burlington-on/293">Yes TV (CITS) Burlington, ON</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CMT.ca" site_id="cmt-canada/120">CMT Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CNBC.us" site_id="cnbc-usa/201">CNBC USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CNN.us" site_id="cnn/70">CNN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CNNInternationalNorthAmerica.us" site_id="cnn-international-north-america/3008">CNN International North America</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CottageLife.ca" site_id="cottage-life/455">Cottage Life</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CP24.ca" site_id="cp24-cablepulse-24/321">CP24 (CablePulse 24)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CPACEnglish.ca" site_id="cpac-ottawa/127">CPAC Ottawa</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CSPAN.us" site_id="cspan/648">C-SPAN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CSPAN2.us" site_id="cspan-2/1050">C-SPAN 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CSPAN3.us" site_id="cspan-3/3423">C-SPAN 3</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CTVNewsChannel.ca" site_id="ctv-news-channel/416">CTV News Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DDBharati.in" site_id="dd-bharati-doordarshan/13649">DD Bharati (Doordarshan)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DDIndia.in" site_id="dd-india-doordarshan/13650">DD India (Doordarshan)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DDNews.in" site_id="dd-news-doordarshan/13651">DD News (Doordarshan)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DDUrdu.in" site_id="dd-urdu-doordarshan/13648">DD Urdu (Doordarshan)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DejaView.ca" site_id="deja-view/448">Deja View</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DiscoveryChannel.ca" site_id="discovery-channel-can/16">Discovery Channel (CAN)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DiscoveryFamily.us" site_id="discovery-family-channel-hd/8518">Discovery Family Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DiscoveryScience.ca" site_id="discovery-science-canada/1188">Discovery Science Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DiscoveryVelocity.ca" site_id="discovery-velocity/3887">Discovery Velocity HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DocumentaryChannel.ca" site_id="documentary-channel-canada/462">Documentary Channel (Canada)</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="DorcelTVCanada.ca" site_id="vivid-tv-canada-english/13620">Dorcel TV (Français)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DTour.ca" site_id="dtour/11143">DTOUR</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="E.ca" site_id="e-canada/295">E! Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNClassic.ca" site_id="espn-classic-canada/1154">ESPN Classic Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra1.us" site_id="espn-college-extra-1/9982">ESPN College Extra 1</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra3.us" site_id="espn-college-extra-3/15435">ESPN College Extra 3</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra4.us" site_id="espn-college-extra-4/15437">ESPN College Extra 4</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra5.us" site_id="espn-college-extra-5/15439">ESPN College Extra 5</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra7.us" site_id="espn-college-extra-7/15352">ESPN College Extra 7</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNU.us" site_id="espn-u/3331">ESPN U</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FairchildTV2.ca" site_id="fairchild-tv-2-hd/11398">Fairchild TV 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FamilyJr.ca" site_id="family-jr/5330">Family Jr.</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FightNetwork.ca" site_id="fight-network-canada/3433">Fight Network Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetwork.ca" site_id="food-network-canada/169">Food Network Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="fox-business/4656">Fox Business</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxNewsChannel.us" site_id="fox-news/1083">Fox News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxSportsRacing.us" site_id="fox-sports-racing/192">Fox Sports Racing</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FX.ca" site_id="fx-networks-canada/10026">FX Networks Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXEast.us" site_id="fx-networks-east-coast-hd/6111">FX Networks East Coast HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="fx-movie-channel-hd/8463">FX Movie Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXWest.us" site_id="fx-networks-west-coast/1449">FX Networks West Coast</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FXX.ca" site_id="fxx-canada/13400">FXX Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="GINXEsportsTVCanada.ca" site_id="super-channel-4/4836">Ginx eSports TV Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="GlobalNewsBC1.ca" site_id="global-bc/31">Global BC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="GolTVUSA.us" site_id="gol-tv-usa-hd/12608">Gol TV USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Grit.us" site_id="grit-network/14377">Grit Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HallaBolKidsTV.ca" site_id="halla-bol/13664">Halla Bol!</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HDNetMovies.us" site_id="hdnet-movies/4267">HDNet Movies</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HGTV.ca" site_id="hgtv-canada/167">HGTV Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="History.ca" site_id="history-canada-east/164">History Canada East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="History2.ca" site_id="h2-canada/461">History 2 Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HLN.us" site_id="hln/425">HLN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HollywoodSuite00sMovies.ca" site_id="hollywood-suite-00s/8887">Hollywood Suite 00s</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HollywoodSuite70sMovies.ca" site_id="hollywood-suite-70s/10310">Hollywood Suite 70s</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HollywoodSuite80sMovies.ca" site_id="hollywood-suite-80s/13639">Hollywood Suite 80s</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HollywoodSuite90sMovies.ca" site_id="hollywood-suite-90s/10880">Hollywood Suite 90s</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HSN2.us" site_id="hsn-2/13495">HSN 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="IFCEast.us" site_id="independent-film-channel-us-hd/6215">Independent Film Channel US HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="InvestigationDiscovery.ca" site_id="investigation-discovery-canada/1120">Investigation Discovery Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAALDT1.us" site_id="abc-kaal-austin-mn/1534">ABC (KAAL) Austin, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KABCDT1.us" site_id="abc-kabc-los-angeles-ca/2589">ABC (KABC) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAKEDT1.us" site_id="abc-kake-wichita-ks/1547">ABC (KAKE) Wichita, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAREDT1.us" site_id="nbc-kare-minneapolis-mn/81">NBC (KARE) Minneapolis, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KASWDT1.us" site_id="cw-kasw-phoenix-az/1181">CW (KASW) Phoenix, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KATVDT1.us" site_id="abc-katv-little-rock-ar/1499">ABC (KATV) Little Rock, AR</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KBCWDT1.us" site_id="cw-kbcw-san-francisco-ca/3562">KPIX+ (KPYX) San Francisco, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KBMTDT1.us" site_id="abc-kbmt-beaumont-tx/3123">ABC (KBMT) Beaumont, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCALDT1.us" site_id="kcal-los-angeles/1826">KCAL Los Angeles</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCBSDT1.us" site_id="cbs-kcbs-los-angeles-ca/2172">CBS (KCBS) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCETDT1.us" site_id="kcet-los-angeles-ca/2310">KCET Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCNCDT1.us" site_id="cbs-kcnc-denver-co/1566">CBS (KCNC) Denver, CO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCOPDT1.us" site_id="mnt-kcop-los-angeles-ca/1811">MNT (KCOP) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCRADT1.us" site_id="nbc-kcra-sacramento-ca/2087">NBC (KCRA) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCTSDT1.us" site_id="pbs-kcts-seattle-wa/190">PBS (KCTS) Seattle, WA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDKADT1.us" site_id="cbs-kdka-pittsburgh-pa/1389">CBS (KDKA) Pittsburgh, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDVRDT1.us" site_id="fox-kdvr-denver-co/1572">FOX (KDVR) Denver, CO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KECIDT1.us" site_id="nbc-keci-missoula-mt/5053">NBC (KECI) Missoula, MT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KEYTDT1.us" site_id="abc-keyt-santa-barbara-ca/2308">ABC (KEYT) Santa Barbara, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFJXDT1.us" site_id="fox-kfjx-pittsburg-ks/2426">FOX (KFJX) Pittsburg, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFNBDT1.us" site_id="fox-kfnb-casper-wy/9916">FOX (KFNB) Casper, WY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFSNDT1.us" site_id="abc-kfsn-fresno-ca/2686">ABC (KFSN) Fresno, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGMBDT1.us" site_id="cbs-kgmb-honolulu-hi/2654">CBS (KGMB) Honolulu, HI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGODT1.us" site_id="abc-kgo-san-francisco-ca/2148">ABC (KGO) San Francisco, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KHNLDT1.us" site_id="nbc-khnl-honolulu-hi/5102">NBC (KHNL) Honolulu, HI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KHONDT1.us" site_id="fox-khon-honolulu-hi/2649">FOX (KHON) Honolulu, HI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KINGDT1.us" site_id="nbc-king-seattle-wa/182">NBC (KING) Seattle, WA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KIONDT1.us" site_id="cbs-kion-salinas-ca/2274">CBS (KION) Salinas, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KIRODT1.us" site_id="cbs-kiro-seattle-wa/184">CBS (KIRO) Seattle, WA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KITVDT1.us" site_id="abc-kitv-honolulu-hi/2653">ABC (KITV) Honolulu, HI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMBCDT1.us" site_id="abc-kmbc-kansas-city-mo/2453">ABC (KMBC) Kansas City, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMGHDT1.us" site_id="abc-kmgh-denver-co/1568">ABC (KMGH) Denver, CO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KNBCDT1.us" site_id="nbc-knbc-los-angeles-ca/2588">NBC (KNBC) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KNTVDT1.us" site_id="nbc-kntv-san-francisco-ca/3262">NBC (KNTV) San Francisco, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KNXVDT1.us" site_id="abc-knxv-phoenix-az/1178">ABC (KNXV) Phoenix, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOMODT1.us" site_id="abc-komo-seattle-wa/181">ABC (KOMO) Seattle, WA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOVRDT1.us" site_id="cbs-kovr-sacramento-ca/2153">CBS (KOVR) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPAXDT1.us" site_id="cbs-kpax-missoula-mt/4976">CBS (KPAX) Missoula, MT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPHODT1.us" site_id="cbs-kpho-phoenix-az/1179">CBS (KPHO) Phoenix, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPIXDT1.us" site_id="cbs-kpix-san-francisco-ca/2203">CBS (KPIX) San Francisco, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPNXDT1.us" site_id="nbc-kpnx-phoenix-az/1186">NBC (KPNX) Phoenix, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRIVDT1.us" site_id="fox-kriv-houston-tx/2402">FOX (KRIV) Houston, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRNVDT1.us" site_id="nbc-krnv-reno-nv/1491">NBC (KRNV) Reno, NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRXIDT1.us" site_id="fox-krxi-reno-nv/1495">FOX (KRXI) Reno, NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSATDT1.us" site_id="abc-ksat-san-antonio-tx/3071">ABC (KSAT) San Antonio, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSAZDT1.us" site_id="fox-ksaz-phoenix-az/1185">FOX (KSAZ) Phoenix, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTLADT1.us" site_id="ktla-los-angeles-ca/90">KTLA Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTMFDT1.us" site_id="abc-ktmf-missoula-mt/4940">ABC (KTMF) Missoula, MT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTRKDT1.us" site_id="abc-ktrk-houston-tx/2394">ABC (KTRK) Houston, TX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTTVDT1.us" site_id="fox-kttv-los-angeles-ca/1949">FOX (KTTV) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVDDT1.us" site_id="mnt-ktvd-denver-co/1565">MNT (KTVD) Denver, CO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVFDT1.us" site_id="nbc-ktvf-fairbanks-ak/5121">NBC (KTVF) Fairbanks, AK</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVNDT1.us" site_id="cbs-ktvn-reno-nv/1490">CBS (KTVN) Reno, NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVUDT1.us" site_id="fox-ktvu-san-francisco-ca/2145">FOX (KTVU) San Francisco, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTXLDT1.us" site_id="fox-ktxl-sacramento-ca/2158">FOX (KTXL) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KUFMDT1.us" site_id="pbs-kufm-missoula-mt/13228">PBS (KUFM) Missoula, MT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KWCHDT1.us" site_id="cbs-kwch-wichita-ks/1546">CBS (KWCH) Wichita, KS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXDFCD1.us" site_id="cbs-k13xd-fairbanks-ak/4960">CBS (K13XD) Fairbanks, AK</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXTVDT1.us" site_id="abc-kxtv-sacramento-ca/2151">ABC (KXTV) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="LegislativeAssemblyofOntario.ca" site_id="ontario-legislature/417">Ontario Legislature</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="LoveNature.ca" site_id="love-nature/3907">Love Nature</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="LSTimesTV.ca" site_id="ls-times/6863">LS Times</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MagnoliaNetworkCanada.ca" site_id="do-it-yourself-network-canada/2034">Magnolia Network Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Makeful.ca" site_id="makeful/2466">Makeful</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusMarquee.us" site_id="epix-hits/11486">MGM+ Marquee</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MovieMaxEast.us" site_id="moviemax-hd/7101">MovieMax HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MovieTime.ca" site_id="movietime/464">MovieTime</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSG.us" site_id="msg-madison-square-gardens-hd/4695">MSG (Madison Square Gardens) HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSG2.us" site_id="msg-2-hd/31491">MSG 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSGPlus.us" site_id="msg-plus/1088">MSG Plus</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSNBC.us" site_id="msnbc-usa/655">MSNBC USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MTV.ca" site_id="mtv-canada/414">MTV Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Much.ca" site_id="much-music/73">Much Music</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NationalGeographic.ca" site_id="national-geographic-canada/475">National Geographic Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBATVCanada.ca" site_id="nba-tv-canada/1150">NBA TV Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NDTVGoodTimes.in" site_id="ndtv-good-times/8965">NDTV Good Times</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NewsmaxTV.us" site_id="newsmax-tv/16818">NewsMax TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLNetwork.us" site_id="nfl-network/3349">NFL Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket1.us" site_id="nfl-sunday-ticket-1/2747">NFL Sunday Ticket 1</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket10.us" site_id="nfl-sunday-ticket-10/2756">NFL Sunday Ticket 10</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket11.us" site_id="nfl-sunday-ticket-11/2903">NFL Sunday Ticket 11</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket12.us" site_id="nfl-sunday-ticket-12/2904">NFL Sunday Ticket 12</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket13.us" site_id="nfl-sunday-ticket-13/2905">NFL Sunday Ticket 13</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket14.us" site_id="nfl-sunday-ticket-14/2906">NFL Sunday Ticket 14</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket2.us" site_id="nfl-sunday-ticket-2/2748">NFL Sunday Ticket 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket3.us" site_id="nfl-sunday-ticket-3/2749">NFL Sunday Ticket 3</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket4.us" site_id="nfl-sunday-ticket-4/2750">NFL Sunday Ticket 4</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket5.us" site_id="nfl-sunday-ticket-5/2751">NFL Sunday Ticket 5</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket6.us" site_id="nfl-sunday-ticket-6/2752">NFL Sunday Ticket 6</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket7.us" site_id="nfl-sunday-ticket-7/2753">NFL Sunday Ticket 7</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket8.us" site_id="nfl-sunday-ticket-8/2754">NFL Sunday Ticket 8</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLSundayTicket9.us" site_id="nfl-sunday-ticket-9/2755">NFL Sunday Ticket 9</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce1.us" site_id="nhl-center-ice-1/15375">NHL Center Ice 1</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce10.us" site_id="nhl-center-ice-10/15377">NHL Center Ice 10</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce2.us" site_id="nhl-center-ice-2/15383">NHL Center Ice 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce3.us" site_id="nhl-center-ice-3/15385">NHL Center Ice 3</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce4.us" site_id="nhl-center-ice-4/15387">NHL Center Ice 4</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce5.us" site_id="nhl-center-ice-5/15389">NHL Center Ice 5</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce6.us" site_id="nhl-center-ice-6/15392">NHL Center Ice 6</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce7.us" site_id="nhl-center-ice-7/15393">NHL Center Ice 7</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce8.us" site_id="nhl-center-ice-8/15395">NHL Center Ice 8</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLCenterIce9.us" site_id="nhl-center-ice-9/15397">NHL Center Ice 9</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLNetwork.us" site_id="nhl-network-usa/14156">NHL Network USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Nickelodeon.ca" site_id="nickelodeon-canada/6835">Nickelodeon Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="OUTtv.ca" site_id="outtv/2729">OUTtv</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="OWN.ca" site_id="oprah-winfrey-network-canada/296">Oprah Winfrey Network Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PenthouseTV.ca" site_id="penthouse-tv-canada/5894">Penthouse TV Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="RedHotTV.ca" site_id="red-hot-tv/3627">Red Hot TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Reelz.us" site_id="reelzchannel/4175">ReelzChannel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Showcase.ca" site_id="showcase-canada/62">Showcase Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SilverScreenClassics.ca" site_id="silver-screen-classics/2115">Silver Screen Classics</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Slice.ca" site_id="slice/60">Slice</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SmithsonianChannel.ca" site_id="smithsonian-channel-canada/3909">Smithsonian Channel Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet360.ca" site_id="sportsnet-360/336">Sportsnet 360</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsnetOne.ca" site_id="sportsnet-one/8249">Sportsnet One</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsnetOntario.ca" site_id="sportsnet-ontario/254">Sportsnet (Ontario)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsnetWorld.ca" site_id="sportsnet-world/4442">Sportsnet World</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="StarGold.in" site_id="star-india-gold/6776">ATN - Max 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SuperChannelFuse.ca" site_id="super-channel-1/4833">Super Channel Fuse</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SuperChannelHeartHome.ca" site_id="super-channel-2/4834">Super Channel Heart &amp; Home</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SuperChannelVault.ca" site_id="super-channel-3/4835">Super Channel Vault</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Talentvision.ca" site_id="talentvision/365">Talentvision</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TCM.ca" site_id="turner-classic-movies-canada/2847">Turner Classic Movies Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TCMEast.us" site_id="turner-classic-movies-usa/176">Turner Classic Movies USA</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Telemagino.ca" site_id="telemagino/8019">Télémagino</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheWeatherChannel.us" site_id="the-weather-channel-hd/5599">The Weather Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheWeatherNetwork.ca" site_id="weather-network/419">Weather Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TreehouseTV.ca" site_id="treehouse/163">Treehouse</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN1.ca" site_id="tsn1/11">TSN1</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN2.ca" site_id="tsn2/4294">TSN2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN3.ca" site_id="tsn3/13719">TSN3</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN4.ca" site_id="tsn4/279">TSN4</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN5.ca" site_id="tsn5/278">TSN5</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TVOne.us" site_id="tv-one/2287">TV One</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="UpTV.us" site_id="up/5911">UP</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="VisionTV.ca" site_id="vision-tv/17">Vision TV Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBALDT1.us" site_id="nbc-wbal-baltimore-md/3236">NBC (WBAL) Baltimore, MD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBBMDT1.us" site_id="cbs-wbbm-chicago-il/1830">CBS (WBBM) Chicago, IL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBBZDT1.us" site_id="metv-wbbz-buffalo-ny/9936">MeTV (WBBZ) Buffalo, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBFFDT1.us" site_id="fox-wbff-baltimore-md/3593">FOX (WBFF) Baltimore, MD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBGUDT1.us" site_id="pbs-wbgu-bowling-green-oh/3025">PBS (WBGU) Bowling Green, OH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBKPDT1.us" site_id="cw-wbkp-calumet-mi/4943">CW (WBKP) Calumet, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBSFDT1.us" site_id="cw-wbsf-flint-mi/6958">CW (WBSF) Flint, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBZDT1.us" site_id="cbs-wbz-boston-ma/134">CBS (WBZ) Boston, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCAXDT1.us" site_id="cbs-wcax-burlington-vt/97">CBS (WCAX) Burlington, VT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCBIDT1.us" site_id="cbs-wcbi-colombus-ms/1841">CBS (WCBI) Colombus, MS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCCODT1.us" site_id="cbs-wcco-minneapolis-mn/80">CBS (WCCO) Minneapolis, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCCTDT1.us" site_id="cw-wcct-hartford-ct/2057">CW (WCCT) Hartford, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCMUDT1.us" site_id="pbs-wcmu-mt-pleasant-mi/9304">PBS (WCMU) Mt. Pleasant, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCSCDT1.us" site_id="cbs-wcsc-charleston-sc/1092">CBS (WCSC) Charleston, SC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCSHDT1.us" site_id="nbc-wcsh-portland-me/1191">NBC (WCSH) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCWJDT1.us" site_id="cw-wcwj-jacksonville-fl/2046">CW (WCWJ) Jacksonville, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDAFDT1.us" site_id="fox-wdaf-kansas-city-mo/2451">FOX (WDAF) Kansas City, MO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDCQDT1.us" site_id="pbs-wdcq-flint-mi/9042">PBS (WDCQ) Flint, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDIVDT1.us" site_id="nbc-wdiv-detroit-mi/21">NBC (WDIV) Detroit, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDVBCD1.us" site_id="the-country-network-wdvb-edison-nj/11067">The Country Network (WDVB) Edison, NJ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEDWDT1.us" site_id="connecticut-public-television-wedw-bridgeport/2065">Connecticut Public Television (WEDW) Bridgeport</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WETADT1.us" site_id="pbs-weta-hd-washington-dc/8180">PBS (WETA) HD Washington, DC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WETKDT1.us" site_id="pbs-wetk-colchester-vt/102">PBS (WETK) Colchester, VT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEVVDT1.us" site_id="cbs-wevv-evansville-in/1801">CBS (WEVV) Evansville, IN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WEYIDT1.us" site_id="nbc-weyi-flint-mi/5136">NBC (WEYI) Flint, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFFFDT1.us" site_id="fox-wfff-burlington-vt/140">FOX (WFFF) Burlington, VT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFLDDT1.us" site_id="fox-wfld-chicago-il/1606">FOX (WFLD) Chicago, IL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFQXDT1.us" site_id="fox-wfqx-traverse-citycadillac-mi/483">FOX (WFQX) Traverse City/Cadillac, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFSBDT1.us" site_id="cbs-wfsb-hartford-ct/2051">CBS (WFSB) Hartford, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFTYDT1.us" site_id="unimas-wfty-smithtown-ny/1961">UniMás (WFTY) Smithtown, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFXTDT1.us" site_id="fox-wfxt-boston-ma/338">FOX (WFXT) Boston, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGMEDT1.us" site_id="cbs-wgme-portland-me/2696">CBS (WGME) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGRZDT1.us" site_id="nbc-wgrz-buffalo-ny/91">NBC (WGRZ) Buffalo, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGVUDT1.us" site_id="pbs-wgvu-grand-rapids-mi/1919">PBS (WGVU) Grand Rapids, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHBQDT1.us" site_id="fox-whbq-memphis-tn/1429">FOX (WHBQ) Memphis, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHDHDT1.us" site_id="whdh-boston-ma/135">WHDH Boston, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHECDT1.us" site_id="nbc-whec-rochester-ny/40">NBC (WHEC) Rochester, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WICUDT1.us" site_id="nbc-wicu-erie-pa/209">NBC (WICU) Erie, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WildBrainTV.ca" site_id="family-chrgd/10176">WildBrainTV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WildTV.ca" site_id="wild-tv/2976">Wild TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WIVBDT1.us" site_id="cbs-wivb-buffalo-ny/88">CBS (WIVB) Buffalo, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJACDT1.us" site_id="nbc-wjac-johnstown-pa/1074">NBC (WJAC) Johnstown, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJARDT1.us" site_id="nbc-wjar-cranston-ri/2055">NBC (WJAR) Cranston, RI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJAXDT1.us" site_id="cbs-wjax-jacksonville-fl/2048">CBS (WJAX) Jacksonville, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJBKDT1.us" site_id="fox-wjbk-detroit-mi/54">FOX (WJBK) Detroit, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJLPDT1.us" site_id="metv-wjlp-new-jerseynew-york/5138">MeTV (WJLP) New Jersey/New York</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJWDT1.us" site_id="fox-wjw-cleveland-oh/217">FOX (WJW) Cleveland, OH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJZDT1.us" site_id="cbs-wjz-baltimore-md/3237">CBS (WJZ) Baltimore, MD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKARDT1.us" site_id="pbs-wkar-east-lansing-mi/13241">PBS (WKAR) East Lansing, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKCFDT1.us" site_id="cw-wkcf-orlando-fl/2515">CW (WKCF) Orlando, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKMGDT1.us" site_id="cbs-wkmg-orlando-fl/2492">CBS (WKMG) Orlando, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLBZDT1.us" site_id="nbc-wlbz-bangor-me/124">NBC (WLBZ) Bangor, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLIWDT1.us" site_id="pbs-wliw-long-island-ny/1775">PBS (WLIW) Long Island, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLNYDT1.us" site_id="wlny-tv1055-riverhead-ny/9574">WLNY TV10/55, Riverhead, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLUCDT1.us" site_id="nbc-wluc-upper-michigan-mi/3163">NBC (WLUC) Upper Michigan, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMAEDT1.us" site_id="pbs-wmae-booneville-ms/1402">PBS (WMAE) Booneville, MS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMAQDT1.us" site_id="nbc-wmaq-chicago-il/1831">NBC (WMAQ) Chicago, IL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMBCDT6.us" site_id="azteca-wmbc-newton-nj/11536">Azteca (WMBC) Newton, NJ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMCDT1.us" site_id="nbc-wmc-memphis-tn/1353">NBC (WMC) Memphis, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMYDDT1.us" site_id="mnt-wmyd-detroit-mi/269">MNT (WMYD) Detroit, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNACDT1.us" site_id="fox-wnac-e-providence-ri/2062">FOX (WNAC) E. Providence, RI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNEDDT1.us" site_id="pbs-wned-buffalo-ny/92">PBS (WNED) Buffalo, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNETDT1.us" site_id="pbs-wnet-new-york-ny/1774">PBS (WNET) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNMFLD1.us" site_id="infomercials-wnmf-new-york-ny/17860">Infomercials (WNMF) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNWODT1.us" site_id="nbc-wnwo-toledo-oh/259">NBC (WNWO) Toledo, OH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNYODT1.us" site_id="mnt-wnyo-buffalo-ny/324">MNT (WNYO) Buffalo, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOFLDT1.us" site_id="fox-wofl-orlando-fl/2491">FOX (WOFL) Orlando, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPBSDT1.us" site_id="pbs-wpbs-watertown-ny/29">PBS (WPBS) Watertown, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPCWDT1.us" site_id="cw-wpcw-pittsburgh-pa/3187">WPKD Pittsburgh, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPFODT1.us" site_id="fox-wpfo-portland-me/2694">FOX (WPFO) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPGHDT1.us" site_id="fox-wpgh-pittsburgh-pa/2020">FOX (WPGH) Pittsburgh, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPRIDT1.us" site_id="cbs-wpri-e-providence-ri/2052">CBS (WPRI) E. Providence, RI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPTZDT1.us" site_id="nbc-wptz-plattsburg-ny/99">NBC (WPTZ) Plattsburg, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPXIDT1.us" site_id="nbc-wpxi-pittsburgh-pa/1397">NBC (WPXI) Pittsburgh, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPXNDT1.us" site_id="ion-wpxn-new-york-ny/1778">ION (WPXN) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPXTDT1.us" site_id="cw-wpxt-portland-me/2695">CW (WPXT) Portland, ME</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPXUDT1.us" site_id="ion-wpxu-jacksonville-nc/7774">ION (WPXU) Jacksonville, NC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WREGDT1.us" site_id="cbs-wreg-memphis-tn/1428">CBS (WREG) Memphis, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WROCDT1.us" site_id="cbs-wroc-rochester-ny/35">CBS (WROC) Rochester, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSBEDT1.us" site_id="pbs-wsbe-providence-ri-hd/7752">PBS (WSBE) Providence, RI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSMHDT1.us" site_id="fox-wsmh-flint-mi/5047">FOX (WSMH) Flint, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSMVDT1.us" site_id="nbc-wsmv-nashville-tn/1846">NBC (WSMV) Nashville, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTATDT1.us" site_id="fox-wtat-charleston-sc/1097">FOX (WTAT) Charleston, SC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTBYDT1.us" site_id="tbn-wtby-new-york-ny/2575">TBN (WTBY) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTICDT1.us" site_id="fox-wtic-hartford-ct/2061">FOX (WTIC) Hartford, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTLVDT1.us" site_id="nbc-wtlv-jacksonville-fl/1435">NBC (WTLV) Jacksonville, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTOLDT1.us" site_id="cbs-wtol-toledo-oh/27">CBS (WTOL) Toledo, OH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVFDT1.us" site_id="cbs-wtvf-nashville-tn/1883">CBS (WTVF) Nashville, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVSDT1.us" site_id="pbs-wtvs-detroit-mi/22">PBS (WTVS) Detroit, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVTDT1.us" site_id="fox-wtvt-tampa-bay-fl/2552">FOX (WTVT) Tampa Bay, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WUHFDT1.us" site_id="fox-wuhf-rochester-ny/44">FOX (WUHF) Rochester, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WUTVDT1.us" site_id="fox-wutv-buffalo-ny/45">FOX (WUTV) Buffalo, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVITDT1.us" site_id="nbc-wvit-w-hartford-ct/2056">NBC (WVIT) W. Hartford, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVUEDT1.us" site_id="fox-wvue-new-orleans-la/1745">FOX (WVUE) New Orleans, LA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWJDT1.us" site_id="cbs-wwj-detroit-mi/128">CBS (WWJ) Detroit, MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWORDT1.us" site_id="mnt-wwor-new-york-ny/1612">MNT (WWOR) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXINDT1.us" site_id="fox-wxin-indianapolis-in/1374">FOX (WXIN) Indianapolis, IN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXXIDT1.us" site_id="pbs-wxxi-rochester-ny/46">PBS (WXXI) Rochester, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WZTVDT1.us" site_id="fox-wztv-nashville-tn/1890">FOX (WZTV) Nashville, TN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="YesNetwork.us" site_id="yes-network/1953">YES Network</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="KMEXDT1.us" site_id="uni-kmex-los-angeles-ca/2602">UNI (KMEX) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="KMEXDT2.us" site_id="unimas-kftr-ontario-ca/11261">UniMás (KFTR) Ontario, CA</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="KVEADT1.us" site_id="telemundo-kvea-los-angeles-ca/2611">Telemundo (KVEA) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="TVChile.cl" site_id="tv-chile/2102">TV Chile</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="UnivisionCanada.ca" site_id="univision-canada/13625">Univision Canada</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="WFUTDT1.us" site_id="unimas-wfut-new-york-ny/1776">UniMás (WFUT) New York, NY</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="WNJUDT1.us" site_id="telemundo-wnju-teterboro-nj/1772">Telemundo (WNJU) Teterboro, NJ</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="WXTVDT1.us" site_id="uni-wxtv-teaneck-nj/1771">UNI (WXTV) Teaneck, NJ</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="addikTV.ca" site_id="addik-tv/2033">Addik TV</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="APTNHD.ca" site_id="aptn-hd/5997">APTN HD</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="AssembleenationaleduQuebec.ca" site_id="assemblee-nationale-du-quebec/431">Assemblee nationale du Quebec</channel>
+  <channel site="tvpassport.com" lang="es" xmltv_id="AzMundo.mx" site_id="az-mundo/3998">Azteca Internacional</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CanalD.ca" site_id="canal-d/108">Canal D</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CanalM.ca" site_id="canal-m/5955">Canal M</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CanalVie.ca" site_id="canal-vie/307">Canal Vie</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Casa.ca" site_id="casa/5484">CASA</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CBAFTDT.ca" site_id="src-cbaft-moncton-nb/118">ICI (CBAFT) Moncton, NB</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CBFTDT.ca" site_id="src-cbft-montreal-qc/196">ICI (CBFT) Montreal, QC</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CBLFTDT.ca" site_id="src-cblft-toronto-hd/3626">ICI (CBLFT) Toronto HD</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CBUFTDT.ca" site_id="src-cbuft-vancouver-bc/188">ICI (CBUFT) Vancouver, BC</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CFJPDT.ca" site_id="v-cfjp-montreal-qc/301">Noovo (CFJP) Montreal, QC</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CFTMDT.ca" site_id="tva-cftm-montreal/106">TVA (CFTM) Montréal</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Cinepop.ca" site_id="cinepop/2325">Cinépop</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="CPACFrench.ca" site_id="cpac-francais/429">CPAC (Francais)</channel>
+  <channel site="tvpassport.com" lang="pt" xmltv_id="FPTV.ca" site_id="fptv-festival-portuguese-tv/2465">FPTV (Festival Portuguese TV)</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Historia.ca" site_id="historia/345">Historia</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="IciARTV.ca" site_id="artv/459">ARTV</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="IciExplora.ca" site_id="explora/10298">Explora</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="IciRDI.ca" site_id="rdi-news/8">RDI (News)</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="LaChaineDisney.ca" site_id="la-chaine-disney/5981">La Chaine Disney</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="LCN.ca" site_id="lcn/432">LCN</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Prise2.ca" site_id="prise-2/2848">Prise 2</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="RDS.ca" site_id="rds-reseau-des-sports/47">RDS (Réseau des sports)</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="RDS2.ca" site_id="rds-2/9705">RDS 2</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="RDSInfo.ca" site_id="rds-info/3889">RDS Info</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="SuperEcran1.ca" site_id="super-ecran/57">Super Ecran</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="SuperEcran2.ca" site_id="super-ecran-2/362">Super Ecran 2</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="SuperEcran3.ca" site_id="super-ecran-3/410">Super Ecran 3</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="SuperEcran4.ca" site_id="super-ecran-4/411">Super Ecran 4</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="TVASports.ca" site_id="tva-sports/9823">TVA Sports</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Vrak.ca" site_id="vrak/48">VRAK</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Z.ca" site_id="z/344">Z</channel>
+  <channel site="tvpassport.com" lang="fr" xmltv_id="Zeste.ca" site_id="zeste/7508">Zeste</channel>
+  <channel site="tvpassport.com" lang="hu" xmltv_id="ERTWorld.ca" site_id="ert-world-canada/3419">ERT World (Canada)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MediasetItalia.ca" site_id="mediaset-italia/8436">Mediaset Italia</channel>
+<channel site="tv.blue.ch" lang="en" xmltv_id="2MInternational.ma" site_id="3">2M Monde</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlMasriyah.eg" site_id="154">Al Masriya</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ElWatania1.tn" site_id="1673">Tunisie Nationale</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="BN2.ba" site_id="1913">BN 2</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="BNTV.ba" site_id="48">BN TV Sat</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="HayatFolk.ba" site_id="196">Hayat FOLK</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="Hayatovci.ba" site_id="1966">Hayatovci</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="HayatPlus.ba" site_id="197">Hayat PLUS</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="OBN.ba" site_id="1481">OBN TV</channel>
+  <channel site="tv.blue.ch" lang="cs" xmltv_id="CT24.cz" site_id="1699">CT24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="13thStreetUniversal.de" site_id="2">13th Street</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="3Plus.ch" site_id="4">3+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="3sat.de" site_id="6">3sat</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="4Plus.ch" site_id="7">4+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="5Plus.ch" site_id="8">5+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="6Plus.ch" site_id="1469">6+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="7PlusNickSchweiz.ch" site_id="289">7+ / Nickelodeon</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AlpenlandTV.ch" site_id="18">Alpenland TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AnimalPlanet.de" site_id="20">Animal Planet D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AnixeHDSerie.de" site_id="24">Anixe Serie</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ArcadiaTV.li" site_id="1950">ARCADIA world TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ARDalpha.de" site_id="26">ARD-alpha</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="arte.de" site_id="27">Arte Deutsch</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AuftankenTV.ch" site_id="1216">Auftanken TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AutoMotorogSportTV.no" site_id="1616">auto motor und sport</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="automotorundsportchannel.de" site_id="1783">auto motor sport</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AXNBlack.de" site_id="32">AXN Black</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Bergblick.de" site_id="1409">Bergblick</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BibelTV.de" site_id="44">Bibel TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Bild.de" site_id="1865">Bild</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueAction.ch" site_id="591">blue Action</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueCity.ch" site_id="1225">blue City</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueEvent1.ch" site_id="1282">blue Music D 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BluePrime.ch" site_id="588">blue Prime</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueRetro.ch" site_id="1226">blue Retro</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueSport1.ch" site_id="483">blue Sport D 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueSport2.ch" site_id="494">blue Sport D 2</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueStars.ch" site_id="589">blue Stars</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueZoomD.ch" site_id="1221">blue Zoom D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueZoomF.ch" site_id="420">blue Zoom F</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BodenseeTV.ch" site_id="49">Bodensee TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BonGusto.de" site_id="1569">BonGusto</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Boomerang.de" site_id="54">Cartoonito D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BRFernsehenSud.de" site_id="55">BR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="CartoonNetwork.de" site_id="83">Cartoon Network D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ComedyCentral.de" site_id="110">Comedy Central</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="CrimePlusInvestigation.de" site_id="1334">Crime + Investigation D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="CuriosityChannel.de" site_id="396">Curiosity Channel</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DasErste.de" site_id="25">Das Erste</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DeluxeMusic.de" site_id="17">Deluxe Music</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DeutschesMusikFernsehen.de" site_id="121">Deutsches Musik Fernsehen</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DiscoveryChannel.de" site_id="122">Discovery Channel D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DisneyChannel.de" site_id="128">Disney Channel D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DMAX.de" site_id="136">DMAX</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ducktv.sk" site_id="1626">ducktv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DWDeutsch.de" site_id="1447">DW Deutsch</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="eSports1.de" site_id="1553">eSports1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurochannel.uk" site_id="1635">Eurochannel D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="EuronewsGerman.fr" site_id="163">Euronews D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurosport1.de" site_id="167">Eurosport 1 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurosport2.de" site_id="170">Eurosport 2 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="FixFoxi.de" site_id="1792">Fix &amp; Foxi TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="FolxMusicTelevision.de" site_id="180">folx.tv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GameTV.ch" site_id="1224">Game TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GEOTelevision.de" site_id="1333">GEO Television</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GoldstarTVGermany.de" site_id="1786">Goldstar TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GoTV.at" site_id="194">gotv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Heimatkanal.de" site_id="664">Heimatkanal</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HelvetiaOneTV.ch" site_id="1040">Helvetia One TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HGTV.us" site_id="1510">Home &amp; Garden TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="History.de" site_id="203">History</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HitExpressTV.ch" site_id="1825">HitExpress TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HopeChannelGerman.de" site_id="204">Hope TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="hrfernsehen.de" site_id="205">HR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HSE.de" site_id="207">HSE</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Junior.de" site_id="224">Junior</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsClassics.de" site_id="1389">kabel eins CLASSICS</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsDoku.de" site_id="920">kabel eins Doku</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsSchweiz.ch" site_id="226">Kabel eins</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Kanal9.ch" site_id="227">Kanal 9</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="KiKA.de" site_id="228">KiKa</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="KinoweltTV.de" site_id="1399">Kinowelt</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="KTV.at" site_id="233">K-TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="LiloTV.de" site_id="1914">Lilo TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="LolyTV.ch" site_id="1027">Loly TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MarcoPoloTV.de" site_id="1801">Marco Polo</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MDRFernsehenSachsen.de" site_id="256">MDR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MelodieTV.at" site_id="1376">MelodieTV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MoreThanSportsTV.de" site_id="1254">More Than Sports TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Motorvision.de" site_id="264">Motorvision TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MTV.de" site_id="268">MTV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Musig24TV.ch" site_id="275">musig24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports2.ch" site_id="1544">MySports 2 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports3.ch" site_id="1545">MySports 3 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports4.ch" site_id="1546">MySports 4 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports5.ch" site_id="1547">MySports 5 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports6.ch" site_id="1548">MySports 6 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports7.ch" site_id="1549">MySports 7 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports8.ch" site_id="1550">MySports 8 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySports9.ch" site_id="1551">MySports 9 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySportsOne.ch" site_id="1543">MySports Eins</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="N24Doku.de" site_id="1030">N24 Doku</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="NationalGeographic.de" site_id="278">National Geographic D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="NationalGeographicWild.de" site_id="282">National Geographic Wild D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="NDRFernsehenHamburg.de" site_id="286">NDR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Nicktoons.de" site_id="1605">Nicktoons</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Nitro.de" site_id="363">Nitro</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ntv.de" site_id="297">n-tv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="One.de" site_id="147">One</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="OneMusicTelevision.de" site_id="1790">One Music Television</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORF1.at" site_id="303">ORF 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORF2.at" site_id="302">ORF 2</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORFIII.at" site_id="1222">ORF 3</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORFSportPlus.at" site_id="1889">ORF Sport +</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="phoenix.de" site_id="307">Phoenix TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="PremiumShoppingTV.ch" site_id="1724">Premium Shopping</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenFun.de" site_id="1607">pro 7 fun</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenMaxx.de" site_id="323">ProSieben MAXX</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenSchweiz.ch" site_id="322">ProSieben</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="PulsAcht.ch" site_id="325">Puls 8</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="R9.at" site_id="326">R9 Österreich</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RadioPilatusTV.ch" site_id="308">Radio Pilatus TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="rbbFernsehenBerlin.de" site_id="342">RBB</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RegioTVplus.ch" site_id="904">regioTVplus</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RheinweltenTV.ch" site_id="1466">Rheinwelten TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RiC.de" site_id="350">RIC TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RomanceTV.de" site_id="354">Romance TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="rrotv.ch" site_id="1784">rrotv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTL.de" site_id="360">RTL</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLCrime.de" site_id="361">RTL Crime</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLLiving.de" site_id="362">RTL Living</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLPassion.de" site_id="305">RTL Passion</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLSuper.de" site_id="411">Super RTL</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLup.de" site_id="919">RTLup</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLZwei.de" site_id="359">RTL ZWEI</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="S1.ch" site_id="374">S1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SAT1.de" site_id="375">SAT.1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SAT1Gold.de" site_id="377">SAT.1 GOLD</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SchaffhauserFernsehen.ch" site_id="382">SHf - Schaffhauser Fernsehen</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SchlagerDeluxe.de" site_id="1714">Schlager Deluxe</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ServusTV.at" site_id="381">Servus TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="sixx.de" site_id="385">sixx</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SonyChannel.de" site_id="1083">AXN White</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SpiegelGeschichte.de" site_id="395">Spiegel Geschichte</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Sport1.de" site_id="398">Sport1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Sport1Plus.de" site_id="1552">SPORT1+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SportdigitalFUSSBALL.de" site_id="1554">SPORTDIGITAL FUSSBALL</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRF1.ch" site_id="399">SRF 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFernsehen.de" site_id="1502">SR Fernsehen</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFinfo.ch" site_id="400">SRF info</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFzwei.ch" site_id="401">SRF zwei</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="StarTV.ch" site_id="405">Star TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="StingrayClassica.ca" site_id="102">Stingray Classica D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Sudostschweiz.ch" site_id="621">TV Südostschweiz</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Swiss1.ch" site_id="1223">SWISS1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SwissSportTV.ch" site_id="1601">Swiss Sport TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SWRFernsehenBadenWurttemberg.de" site_id="414">SWR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SYFY.de" site_id="415">Syfy D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="tagesschau24.de" site_id="417">Tagesschau24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Tele1.ch" site_id="570">Tele 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TELE5.de" site_id="571">Tele 5</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleBarn.ch" site_id="572">Tele Bärn</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Telebasel.ch" site_id="586">Telebasel</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleBielingue.ch" site_id="573">Tele Bielingue</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleD.ch" site_id="574">Tele D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleM1.ch" site_id="575">Tele M1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleTop.ch" site_id="579">Tele Top</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Televista.ch" site_id="1468">Televista</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZ.ch" site_id="583">Tele Z</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZentralschweiz.ch" site_id="584">Tele Zentralschweiz</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZuri.ch" site_id="585">TeleZüri</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TLC.de" site_id="607">TLC</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TOGGOplus.de" site_id="918">Toggo Plus</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TV24.ch" site_id="634">TV24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TV25.ch" site_id="665">TV25</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TV4TNG.ch" site_id="1269">TV4TNG</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVCentral.sk" site_id="1504">TV Central</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVO.ch" site_id="641">TVO</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVOberwallis.ch" site_id="628">TV Oberwallis</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVRheintal.ch" site_id="630">TV Rheintal</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="UHD1.lu" site_id="669">UHD1 by ASTRA</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="UniversalTV.de" site_id="1124">Universal TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="VolksmusikTV.de" site_id="1766">Volksmusik.TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="VOX.de" site_id="651">VOX</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Voxup.de" site_id="1612">VOXup</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVComedy.de" site_id="611">Warner TV Comedy</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVFilm.de" site_id="610">Warner TV Film</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVSerie.de" site_id="612">Warner TV Serie</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WDRFernsehenKoln.de" site_id="654">WDR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WELT.de" site_id="277">WELT</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WeltderWunderTV.de" site_id="655">Welt der Wunder TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WettercomTV.de" site_id="1272">Wetter.TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDF.de" site_id="656">ZDF</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDFinfo.de" site_id="658">ZDFinfo</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDFneo.de" site_id="659">ZDFneo</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZweiMusicTelevision.de" site_id="1791">Zwei Music Television</channel>
+  <channel site="tv.blue.ch" lang="el" xmltv_id="ERTWorld.gr" site_id="153">ERT World</channel>
+  <channel site="tv.blue.ch" lang="el" xmltv_id="RIKSat.cy" site_id="351">RIK Sat</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="4seven.uk" site_id="1678">4Seven</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5Action.uk" site_id="1669">5Action</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5SELECT.uk" site_id="1670">5SELECT</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5STAR.uk" site_id="1652">5Star</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5USA.uk" site_id="1411">5USA</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Alarabiya.ae" site_id="13">Al Arabiya</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlJazeera.qa" site_id="14">Al Jazeera</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="15">Al Jazeera English</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCFour.uk" site_id="35">BBC Four</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNews.uk" site_id="36">BBC News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="40">BBC World News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCOne.uk" site_id="37">BBC One</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCParliament.uk" site_id="1397">BBC Parliament</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCTwo.uk" site_id="39">BBC Two</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="46">Bloomberg TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CBBC.uk" site_id="85">BBC Three / CBBC</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CBeebies.uk" site_id="86">CBeebies</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CBSRealityEMEA.uk" site_id="1717">CBS Reality</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CCTV4Europe.cn" site_id="88">CCTV4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CGTN.cn" site_id="87">CGTN</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Challenge.uk" site_id="1682">Challenge</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Channel4.uk" site_id="89">Channel 4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Channel5.uk" site_id="178">Channel 5</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CITV.uk" site_id="1653">CITV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ClublandTV.uk" site_id="105">Clubland TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CNBCEurope.uk" site_id="106">CNBC UK</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="107">CNN</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Dave.uk" site_id="1507">Dave</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="DMAX.uk" site_id="1654">DMAX UK</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Drama.uk" site_id="902">Drama</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="DubaiTV.ae" site_id="138">Dubai TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="DWEnglish.de" site_id="142">DW Englisch</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="E4.uk" site_id="146">E4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="EEurope.nl" site_id="145">E! Entertainment Europe</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="EnglishClubTV.uk" site_id="1398">English Club TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="164">Euronews E</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Eurosport1.fr" site_id="1488">Eurosport 1 E</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ExtremeSportsChannel.nl" site_id="1555">Extreme Sports</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FashionTVEurope.fr" site_id="175">Fashion TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Film4.uk" site_id="176">Film Four</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FoodNetwork.uk" site_id="1292">Food Network E</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="France24English.fr" site_id="1639">France 24 English</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FunBoxUHD.nl" site_id="1256">Fun Box Ultra</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GBNews.uk" site_id="1823">GB News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GINXEsportsTV.uk" site_id="1408">Ginx TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATaction.uk" site_id="1810">Great! movies action</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATmovies.uk" site_id="1809">Great! movies</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATromance.uk" site_id="1805">Great! Romance</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="i24NEWSEnglishWorld.il" site_id="208">i24 News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="InsightTV.nl" site_id="1029">INPLUS</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="InsightUHD.nl" site_id="667">INULTRA</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV1.uk" site_id="218">ITV1</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV2.uk" site_id="219">ITV2</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV3.uk" site_id="220">ITV3</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV4.uk" site_id="221">ITV4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITVBe.uk" site_id="1400">ITVBe</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="KBSWorld.kr" site_id="1500">KBS World</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Kerrang.uk" site_id="391">Kerrang!</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="KissTV.uk" site_id="230">Kiss TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="LoveNature4K.ca" site_id="1375">Love Nature 4K</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="More4.uk" site_id="262">More 4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="NASATVUHD.us" site_id="1378">NASA TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="287">NHK World</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Now70s.uk" site_id="1716">Now 70s</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Now80s.uk" site_id="1715">Now 80s</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="NOWRock.uk" site_id="94">Now Rock</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="PBSAmerica.uk" site_id="1404">PBS America</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="PhoenixInfoNewsChannel.hk" site_id="306">Phoenix Info News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Quest.uk" site_id="1604">Quest</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="RT.ru" site_id="373">RT</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="RTRPlanetaEurope.ru" site_id="366">RTR Planeta</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="SkyMix.uk" site_id="1677">Pick</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="390">Sky News International</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="SmithsonianChannel.uk" site_id="1490">Smithsonian Channel UK</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayFestival4K.ca" site_id="1257">Stingray Festival 4K</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayiConcerts.ca" site_id="211">Stingray iConcerts</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="TheBox.uk" site_id="604">The Box</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="TheIsraeliNetwork.il" site_id="1457">The Israeli Network</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="TraceHits.uk" site_id="91">Trace Hits</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ViaplayXtra.uk" site_id="1603">viaplay Xtra</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="VoATVGlobal.us" site_id="1637">Voice of America</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Yesterday.uk" site_id="1674">Yesterday</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="24Horas.es" site_id="71">Canal 24 Horas</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Antena3.es" site_id="1953">Antena 3 Int.</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="AragonTVInternacional.es" site_id="1535">Aragón TV Int</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Atreseries.es" site_id="1954">Atreseries</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="CanalExtremaduraSatelite.es" site_id="1291">Canal Extremadura Sat.</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="CanalSurAndalucia.es" site_id="19">Canal Sur Andalucía</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="DePeliculaEuropa.mx" site_id="117">De Pelicula</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="GVAXTV.ch" site_id="1757">GVAX Latino TV</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="LasEstrellasEuropa.mx" site_id="75">Las Estrellas</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Latinos1TV.ch" site_id="1337">LATINOS 1</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Teledeporte.es" site_id="1696">Teledeporte</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TelehitMusica.mx" site_id="352">Telehit Music</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Telesur.ve" site_id="1668">teleSUR</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TlnovelasEuropa.mx" site_id="608">Tlnovelas</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="13emeRue.fr" site_id="1">13eme Rue</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="6terSwitzerland.ch" site_id="9">6ter</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="AB1.fr" site_id="11">AB1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="AB3.be" site_id="1081">AB 3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Action.fr" site_id="12">Action</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="AjoieTV.ch" site_id="1456">Ajoie TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Alsace20.fr" site_id="1695">BFM Alsace</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Animaux.fr" site_id="22">Animaux</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="arte.fr" site_id="28">Arte Français</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Automotolachaine.fr" site_id="10">AUTOMOTO</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BET.fr" site_id="1730">BET</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BFMBusiness.fr" site_id="42">BFM Business</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BFMTV.fr" site_id="43">BFM TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BlueEvent2.ch" site_id="1283">blue Music F 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Boing.fr" site_id="52">Cartoonito F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Boomerang.fr" site_id="53">Boomerang F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="C8.fr" site_id="115">C8</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Canal9.ch" site_id="72">Canal 9</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalAlphaJU.ch" site_id="73">Canal Alpha JU</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalAlphaNE.ch" site_id="74">Canal Alpha NE</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalJ.fr" site_id="76">Canal J</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlus.fr" site_id="57">CANAL+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusCinema.fr" site_id="58">CANAL+ Cinema(s)</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusDocs.fr" site_id="1967">Canal+ Docs</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusFoot.fr" site_id="1972">Canal+ Foot</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusKids.fr" site_id="64">CANAL+ Kids</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusPremierLeague.fr" site_id="1947">CANAL+ PREMIER LEAGUE</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSeries.fr" site_id="68">CANAL+ Series</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSport.fr" site_id="69">CANAL+ Sport</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSport360.fr" site_id="1974">Canal+ Sport 360</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CartoonNetwork.fr" site_id="82">Cartoon Network F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ChassePeche.fr" site_id="92">Chasse et Peche</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Cherie25.fr" site_id="93">Chérie 25</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusClassic.fr" site_id="59">Ciné+ Classic</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusClub.fr" site_id="60">Ciné+ Club</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusEmotion.fr" site_id="62">Cine+ Emotion</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusFamiz.fr" site_id="65">Ciné+ Famiz</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusFrisson.fr" site_id="66">Cine+ Frisson</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusPremier.fr" site_id="67">Ciné + Premier</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CliqueTV.fr" site_id="1754">Clique TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CNews.fr" site_id="217">CNEWS</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ComediePlus.fr" site_id="109">Comedie!+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ComedyCentral.fr" site_id="1969">Comedy Central F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CrimeDistrict.fr" site_id="1128">Crime District</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CStar.fr" site_id="114">CSTAR</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DiscoveryChannel.fr" site_id="123">Discovery F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DiscoveryScience.fr" site_id="125">Science Channel F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DisneyChannel.fr" site_id="129">Disney Channel F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DisneyJunior.fr" site_id="132">Disney Junior F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="E.fr" site_id="144">E! Entertainment France</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Equidia.fr" site_id="151">Equidia Live</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="EuronewsFrench.fr" site_id="165">Euronews F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Eurosport2.fr" site_id="171">Eurosport 2 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France2.fr" site_id="182">France 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France24French.fr" site_id="183">France 24</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France3.fr" site_id="184">France 3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France4.fr" site_id="185">France 4</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France5.fr" site_id="186">France 5</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Franceinfo.fr" site_id="1064">franceinfo</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GameOne.fr" site_id="1772">Game One</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GeneveRegionTelevision.fr" site_id="582">Genève Région Television/TéléVersoix</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GolfChannel.fr" site_id="192">Golf Channel</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GolfPlus.fr" site_id="193">GOLF+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GrandGeneveTV.fr" site_id="1328">Grand Genève TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Gulli.fr" site_id="195">Gulli</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="HistoireTV.fr" site_id="202">histoire</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="i24NEWSFrench.il" site_id="209">i24 News Français</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="InfosportPlus.fr" site_id="213">infosport+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="JOne.fr" site_id="1765">J-One</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="KTO.fr" site_id="232">KTO</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LaChaineMeteo.fr" site_id="1760">la chaîne météo</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LaTele.ch" site_id="242">La Télé</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LCI.fr" site_id="241">La Chaine Info</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LCP.fr" site_id="1658">La Chaîne parlementaire</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LemanBleu.ch" site_id="244">Léman Bleu Télévision</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LEquipe.fr" site_id="245">L'Equipe</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LFMTV.ch" site_id="246">CARAC 3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="M6.ch" site_id="249">M6</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Mangas.fr" site_id="252">Mangas</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MaxTV.ch" site_id="253">Max TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MCM.fr" site_id="1532">MCM</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MCMTop.fr" site_id="255">MCM Top</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Melody.fr" site_id="1761">Melody</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Mezzo.fr" site_id="258">Mezzo</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MezzoLive.fr" site_id="1541">Mezzo Live</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MGGTV.fr" site_id="1406">MGGTV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Motorsporttv.fr" site_id="1723">Motorvision.TV France</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MTV.fr" site_id="1979">MTV France</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports2French.ch" site_id="1558">MySports 2 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports3French.ch" site_id="1559">MySports 3 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports4French.ch" site_id="1560">MySports 4 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports5French.ch" site_id="1561">MySports 5 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports6French.ch" site_id="1562">MySports 6 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports7French.ch" site_id="1563">MySports 7 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports8French.ch" site_id="1564">MySports 8 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports9French.ch" site_id="1565">MySports 9 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySportsOneFrench.ch" site_id="1557">MySports Un</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NationalGeographic.fr" site_id="279">National Geographic F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NationalGeographicWild.fr" site_id="283">National Geographic Wild F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Nickelodeon.fr" site_id="291">Nickelodeon</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NickelodeonJunior.fr" site_id="290">Nickelodeon Junior</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NickelodeonTeen.fr" site_id="1767">Nickelodeon Teen</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NovelasTV.fr" site_id="1731">Novelas</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NRJ12.fr" site_id="293">NRJ12</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NRTV.ch" site_id="294">NRTV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OCSChoc.fr" site_id="1229">OCS Choc</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OCSCitygenerationHBO.fr" site_id="1228">OCS City génération HBO</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OCSGeants.fr" site_id="1230">OCS Géants</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OCSMax.fr" site_id="1227">OCS Max</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OlympiaTV.fr" site_id="1729">Olympia TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OneTV.ch" site_id="301">CARAC 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ORTBTV.bj" site_id="1686">ORTB</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ParamountChannel.fr" site_id="304">Paramount F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PiwiPlus.fr" site_id="315">Piwi+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlus.fr" site_id="316">Planète+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlusAventure.fr" site_id="317">Planète+ A&amp;E</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlusCrime.fr" site_id="318">Planète+ C&amp;I</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PolarPlus.fr" site_id="1273">Polar+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RFMTV.fr" site_id="349">RFM TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCDecouverte.fr" site_id="353">RMC Découverte</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCSport1.fr" site_id="1036">RMC Sport Access 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCSport2.fr" site_id="250">RMC Sport Access 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCStory.fr" site_id="298">RMC Story</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RougeTV.ch" site_id="355">CARAC 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTL9.lu" site_id="364">RTL9</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTS1.ch" site_id="369">RTS 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTS2.ch" site_id="367">RTS 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ScienceVieTV.fr" site_id="379">Science &amp; Vie</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Seasons.fr" site_id="380">Seasons</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="StingrayDJAZZ.ca" site_id="1606">Stingray djazz</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Syfy.fr" site_id="416">Syfy F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TeleSwizz.ch" site_id="41">Teleswizz</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TeletoonPlus.fr" site_id="595">Télétoon+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TF1SeriesFilms.fr" site_id="199">TF1 Séries Films</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TF1Switzerland.ch" site_id="601">TF1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TFXSwitzerland.ch" site_id="295">TFX</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TiJi.fr" site_id="605">Tiji</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TMC.fr" site_id="609">TMC</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Toonami.fr" site_id="1330">WarnerTV Next</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ToutelHistoire.fr" site_id="615">Toute l'Histoire</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceCaribbean.fr" site_id="616">Trace Caribbean</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceLatina.fr" site_id="1987">Trace Latina</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceUrban.fr" site_id="1079">Trace Urban</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Trek.fr" site_id="618">Trek</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV5MondeEurope.fr" site_id="635">TV5 MONDE EUROPE</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" site_id="636">TV5 Monde FBS</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV8MontBlanc.fr" site_id="637">TV8 Mont Blanc</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVBreizh.fr" site_id="622">tv breizh</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVM3.ch" site_id="640">TVM3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVOnex.ch" site_id="1331">TV Onex</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVSuissePlus.ch" site_id="1082">CARAC 4</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="UltraNature.fr" site_id="1217">Ultra Nature</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="UshuaiaTV.fr" site_id="644">Ushuaia TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="VernierVisions.ch" site_id="1467">Vernier Visions</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="W9Switzerland.ch" site_id="653">W9</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="WarnerTV.fr" site_id="1329">Warner TV</channel>
+  <channel site="tv.blue.ch" lang="gl" xmltv_id="GaliciaTVEuropa.es" site_id="624">Televisión de Galicia</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="UtsavGold.in" site_id="403">Utsav Gold</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="UtsavPlus.uk" site_id="404">Utsav Plus</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="AdriaMusicTelevision.de" site_id="1949">ADRIA MUSIC TELEVISION</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="CMCTV.hr" site_id="112">Croatian Music Channel</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="HRT1.hr" site_id="206">HRT 1</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="HRTInternational.hr" site_id="1664">HRT Int.</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="Z1.hr" site_id="632">Z1 Televizija</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="Duna.hu" site_id="1529">Duna TV</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="DunaWorld.hu" site_id="140">Duna World</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="M1.hu" site_id="1528">M1</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="M2.hu" site_id="1527">M2</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="M5.hu" site_id="1531">M5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="20.it" site_id="1379">20 Mediaset</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="7Gold.it" site_id="1388">Telecity 7 Gold</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="AlmaTV.it" site_id="16">ALMA TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="AntennaTre.it" site_id="1380">Antenna 3</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Boing.it" site_id="51">Boing I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="CameradeiDeputati.it" site_id="1808">Camera dei Deputati</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Canale5.it" site_id="79">Canale 5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="CanaleItalia.it" site_id="80">Canale Italia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Cartoonito.it" site_id="84">cartoonito I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Cielo.it" site_id="96">Cielo</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Cine34.it" site_id="1665">Cine34</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ClassTVModa.it" site_id="101">Class TV Moda</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="CrimePlusInvestigation.it" site_id="1975">Sky Crime IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="DeejayTV.it" site_id="1641">Deejay TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="DiscoveryChannel.it" site_id="124">Discovery Channel I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="DMAX.it" site_id="137">DMAX Italia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="EspansioneTV.it" site_id="1645">Espansione TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="EuronewsItalian.fr" site_id="166">Euronews I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Eurosport1.it" site_id="169">Eurosport 1 I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Eurosport2.it" site_id="172">Eurosport 2 I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Focus.it" site_id="1346">Focus</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="FoodNetwork.it" site_id="1348">Food Network IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Frisbee.it" site_id="189">Frisbee</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Giallo.it" site_id="191">Giallo</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="GOTVCanale163.it" site_id="1811">GO-TV Canale 63</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="HGTV.it" site_id="1646">Home &amp; Garden TV IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="History.it" site_id="1693">History IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Iris.it" site_id="214">IRIS</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Italia1.it" site_id="215">Italia 1</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Italia2.it" site_id="216">Italia 2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ItaliaChannel.it" site_id="1382">Italia Channel</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ItalianFishingTV.it" site_id="1644">Italian Fishing TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="K2.it" site_id="225">K2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="La5.it" site_id="243">La5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="LA7.it" site_id="237">La 7</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="LA7d.it" site_id="239">La 7d</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="MediasetExtra.it" site_id="257">Mediaset Extra</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="MotorTrend.it" site_id="1384">Motor Trend</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="NationalGeographic.it" site_id="280">National Geographic I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="NationalGeographicWild.it" site_id="284">National Geographic Wild I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Nove.it" site_id="118">NOVE</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ParolediVita.it" site_id="1951">Parole di Vita</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioItaliaTV.it" site_id="647">Video Italia TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioNorbaTV.it" site_id="1499">Radionorba TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioTicinoChannel.it" site_id="1799">Radio Ticino Channel</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai1.it" site_id="327">Rai 1</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai2.it" site_id="328">Rai 2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai3.it" site_id="329">Rai 3</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai4.it" site_id="330">Rai 4</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai5.it" site_id="331">Rai 5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiGulp.it" site_id="332">Rai Gulp</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiMovie.it" site_id="334">Rai Movie</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiNews24.it" site_id="335">Rai News 24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiPremium.it" site_id="336">Rai Premium</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiScuola.it" site_id="337">Rai Scuola</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiSport.it" site_id="339">Rai Sport</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiSportHD.it" site_id="338">Rai Sport +</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiStoria.it" site_id="340">Rai Storia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiYoyo.it" site_id="341">Rai Yoyo</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RealTime.it" site_id="346">Real Time</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rete4.it" site_id="348">Rete 4</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RSILa1.ch" site_id="356">RSI La 1</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RSILa2.ch" site_id="357">RSI LA 2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RTL1025TV.it" site_id="1489">RTL 102.5 TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SanMarinoRTV.sm" site_id="1719">San Marino RTV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SenatoTV.it" site_id="1671">Senato TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SkyTG24.it" site_id="393">sky TG 24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Sportitalia.it" site_id="1387">SPORTITALIA</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Super.it" site_id="412">Super!</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SuperTennis.it" site_id="1386">SuperTennis TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Telelombardia.it" site_id="592">Telelombardia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Telenova.it" site_id="593">Telenova</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TeleTicino.ch" site_id="578">Tele Ticino</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TGCom24.it" site_id="1287">TGCom24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TopCalcio24.it" site_id="1667">Top Calcio 24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TopCrime.it" site_id="613">Top Crime</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TV2000.it" site_id="633">TV2000</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TV8.it" site_id="266">TV8</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Twentyseven.it" site_id="1948">Twentyseven</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="UniNettunoUniversityTV.it" site_id="643">UniNettuno University TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="VH1.it" site_id="1253">VH1 Italy</channel>
+  <channel site="tv.blue.ch" lang="ku" xmltv_id="KurdistanTV.iq" site_id="235">Kurdistan TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="RudawTV.iq" site_id="372">Rudaw TV</channel>
+  <channel site="tv.blue.ch" lang="ku" xmltv_id="TRTKurdi.tr" site_id="619">TRT Kurdi</channel>
+  <channel site="tv.blue.ch" lang="nl" xmltv_id="BVN.nl" site_id="56">BVN TV</channel>
+  <channel site="tv.blue.ch" lang="pl" xmltv_id="TVPPolonia.pl" site_id="629">TVP Polonia</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="Canal11.pt" site_id="1980">Canal 11</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="RecordTVEuropa.pt" site_id="347">Record TV</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="RTP3.pt" site_id="1484">RTP 3</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="RTPInternacional.pt" site_id="365">RTP Internacional</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICInternacional.pt" site_id="384">SIC Internacional</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICNoticias.pt" site_id="1482">SIC Noticias</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="TVIFiccao.pt" site_id="1487">TVI Ficção</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="TVIInternacional.pt" site_id="1483">TVI Internacional</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="B1.ro" site_id="33">B1 TV</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="Digi24.ro" site_id="1650">Digi 24</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="PROTVInternational.ro" site_id="321">Pro TV International</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="TVRInternational.ro" site_id="631">TV Romania International</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="Carousel.ru" site_id="1676">Karusel Int.</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="ChannelOne.ru" site_id="90">Channel 1 Russia</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="NashKinomir.de" site_id="229">Kinomir</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="OstWest.de" site_id="922">OstWest</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="TelebomTeledom.de" site_id="587">TeleBom - TeleDom</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="ABCNews.al" site_id="1880">ABC News</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="EuronewsAlbania.al" site_id="1894">Euronews AL</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="FaxNews.al" site_id="1895">Fax News</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="Kohavision.xk" site_id="234">KTV Kohavision</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="OraTV.al" site_id="1878">TV Ora</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTK1.xk" site_id="358">RTK1</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTSH3.al" site_id="1681">RTSH 3</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTV21.xk" site_id="370">RTV 21</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTVDukagjini.xk" site_id="1446">TV Dukagjini</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="T7.xk" site_id="1689">T7</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TopChannel.al" site_id="1877">Top Channel</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TV21.mk" site_id="1893">RTV21 M</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TVArta.xk" site_id="1896">Arta News</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TVKlan.al" site_id="1782">TV Klan</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="ZICOTV.rs" site_id="1679">Zico TV</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="BNMusic.ba" site_id="1649">BN Music</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="DMSat.rs" site_id="135">DM Sat TV</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkExtra.rs" site_id="309">Pink Extra</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkFilm.rs" site_id="310">Pink Film</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkFolk1.rs" site_id="1413">Pink Folk</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkKids.rs" site_id="311">Pink Kids</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkKoncert.rs" site_id="312">Pink Koncert</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkMusic.rs" site_id="313">Pink Music</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkPlus.rs" site_id="314">Pink Plus</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkReality.rs" site_id="1459">Pink Reality</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkSerije.rs" site_id="1692">Pink Serije</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkWorld.rs" site_id="1691">Pink World</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="RTSSvet.rs" site_id="1445">RTS Svet</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="TVDugaPlus.rs" site_id="1662">TV Duga+</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="TVKCN3.rs" site_id="413">K::CN 3</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="VijayTVAsia.in" site_id="407">Vijay TV</channel>
+  <channel site="tv.blue.ch" lang="th" xmltv_id="ThaiTVGlobalNetwork.th" site_id="603">Thai TV Global Network</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="360.tr" site_id="394">360</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ATV.tr" site_id="1718">ATV (TR)</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ATVAvrupa.tr" site_id="30">ATV Avrupa</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="CNNTurk.tr" site_id="1656">CNN Türk</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroStar.tr" site_id="162">Euro Star</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowMax.tr" site_id="1297">Showmax</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowTV.tr" site_id="383">Show</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEU.tr" site_id="602">TGRT EU</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="1478">TRT Belgesel</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTCocuk.tr" site_id="1477">TRT Çocuk</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTMuzik.tr" site_id="1480">TRT Müzik</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTSpor.tr" site_id="1479">TRT Spor</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTTurk.tr" site_id="620">TRT Türk</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TV8International.tr" site_id="638">TV8 Int.</channel>
+  <channel site="tv.blue.ch" lang="uk" xmltv_id="NickelodeonUkrainePlutoTV.ua" site_id="1941">Nickelodeon Ukraine Pluto TV</channel>
+</channels>
