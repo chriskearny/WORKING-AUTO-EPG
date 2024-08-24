@@ -35,7 +35,7 @@ def save_unique_channels(unique_channels, output_file):
 
 base_directory = 'sites'
 output_file = 'updated_channels.xml'
-target_dirs = ['tv.blue.ch','tvpassport.com']
+target_dirs = ['tv.blue.ch','tvpassport.com','tvguide.com','flixed.io']
 
 unique_channels = collect_unique_channels(base_directory, target_dirs)
 save_unique_channels(unique_channels, output_file)
