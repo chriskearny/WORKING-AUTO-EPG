@@ -752,6 +752,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="NBCSportsPhiladelphia.us" site_id="comcast-sportsnet-philadelphia-hd/6413">NBC Sports Philadelphia HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ComedyCentralWest.us" site_id="comedy-central-hd--pacific-feed/16224">Comedy Central HD - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WPHLDT4.us" site_id="comet-tv-wphl-dt4-philadelphiapa/10279">Comet TV (WPHL-TV4) Philadelphia,PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Comet.us" site_id="comet-tv/16811">Comet TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WIXTCD1.us" site_id="cornerstone-wixt-cd-dewitt-ny/28966">MeTV (WIXT-CD) Dewitt, NY</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KFFVDT5.us" site_id="cozi-kffv-dt5-seattle-wa/15320">MeTV Plus (KFFV-DT5) Seattle, WA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WCAUDT2.us" site_id="cozi-wcau-dt2-philadelphgia-pa/12622">Cozi TV (WCAU2) Philadelphgia, PA</channel>
@@ -788,6 +789,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="EuronewsFrench.fr" site_id="euronews--francais/3900">Euronews - Français</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="euronews/2121">EuroNews</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShopHQ.us" site_id="evine/1523">SHOPHQ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="EWTN.us" site_id="ewtn-usa/620">EWTN USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetwork.ca" site_id="food-network-canada-dv/8388">Food Network Canada DV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetworkWest.us" site_id="food-network-usa--pacific-feed/2032">Food Network USA - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxWest.us" site_id="fox--pacific/4409">FOX - Pacific</channel>
@@ -1101,6 +1103,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WEAUDT3.us" site_id="hi-weau-dt3-eau-claire-wi/19916">MeTV (WEAU3) Eau Claire, WI</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WFMZDT3.us" site_id="hi-wfmz-dt3-allentown-pa/13515">MeTV (WFMZ-DT3) Allentown, PA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="HLN.us" site_id="hln-hd/6994">HLN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelNorthAmerica.us" site_id="hope-channel/6827">Hope Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HSN.us" site_id="hsn--home-shopping-network/14985">HSN - Home Shopping Network</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="InvestigationDiscovery.ca" site_id="investigation-discovery-canada-hd/8458">Investigation Discovery Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="InvestigationDiscoveryWest.us" site_id="investigation-discovery-usa--pacific/19949">Investigation Discovery USA - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="PositivTV.us" site_id="juce-tv/4456">PosiTiV</channel>
@@ -1601,6 +1605,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWest.us" site_id="showtime-west-hd/10735">Showtime West HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWomenEast.us" site_id="showtime-women--eastern/2273">Showtime Women - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShowtimeWomenWest.us" site_id="showtime-women--pacific/2598">Showtime Women - Pacific</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Smile.us" site_id="smile/5275">Smile</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ParamountNetworkWest.us" site_id="spike-usa--pacific-feed/1199">Paramount Network USA - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StarzWest.us" site_id="starz--pacific/1217">Starz - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="StarzComedyEast.us" site_id="starz-comedy--eastern/4223">Starz Comedy - Eastern</channel>
@@ -1626,6 +1631,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="StarzKidsFamilyWest.us" site_id="starz-kids--family--pacific/1219">Starz Kids &amp; Family - Pacific</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SundanceTVWest.us" site_id="sundancetv-usa--west/4169">SundanceTV USA - West</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SyfyWest.us" site_id="syfy--pacific-feed/1207">Syfy - Pacific Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TBNEast.us" site_id="tbn--trinity-broadcasting-network--east/1119">TBN - Trinity Broadcasting Network - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TBSWest.us" site_id="tbs--pacific-hd/6231">TBS - Pacific HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WLNMLD1.us" site_id="nbc-wlnmld-lansing-mi/25292">NBC (WLNM-LD) Lansing, MI</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WJFBDT1.us" site_id="tct-wjfb-tv-lebanon-tn-hd/19146">MeTV (WJFB-TV) Lebanon, TN HD</channel>
@@ -1899,6 +1905,19 @@
   <channel site="tvpassport.com" lang="fr" xmltv_id="Zeste.ca" site_id="zeste/7508">Zeste</channel>
   <channel site="tvpassport.com" lang="hu" xmltv_id="ERTWorld.ca" site_id="ert-world-canada/3419">ERT World (Canada)</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MediasetItalia.ca" site_id="mediaset-italia/8436">Mediaset Italia</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CourtTV.us" site_id="court-tv-network/33650">Court TV Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="EnlaceTBN.us" site_id="enlace/3256">Enlace</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxWeather.us" site_id="fox-weather/37620">Fox Weather</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="JewelryTV.us" site_id="jewelry-television/3000">Jewelry Television</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="LawCrime.us" site_id="law--crime-network/32823">Law &amp; Crime Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MeritStreet.us" site_id="merit-street/37699">Merit Street</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PBSKids.us" site_id="pbs-kids-247/31867">PBS KIDS 24/7</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WorldChannel.us" site_id="pbs-world/10214">PBS World</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ScrippsNews.us" site_id="scripps-news/5999">Scripps News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ShopLC.us" site_id="shop-lc/36273">Shop LC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TBD.us" site_id="tbd-tv/31478">TBD TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheGrioTV.us" site_id="the-grio-eastern-feed/32034">The Grio - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheNest.us" site_id="the-nest/14118">The Nest</channel>
 <channel site="tv.blue.ch" lang="en" xmltv_id="2MInternational.ma" site_id="3">2M Monde</channel>
   <channel site="tv.blue.ch" lang="en" xmltv_id="AlMasriyah.eg" site_id="154">Al Masriya</channel>
   <channel site="tv.blue.ch" lang="en" xmltv_id="ElWatania1.tn" site_id="1673">Tunisie Nationale</channel>
@@ -2502,7 +2521,6 @@
   <channel site="flixed.io" lang="es" xmltv_id="CineSony.us" site_id="76408">Sony Cine</channel>
   <channel site="flixed.io" lang="en" xmltv_id="CleoTV.us" site_id="110288">Cleo TV</channel>
   <channel site="flixed.io" lang="en" xmltv_id="CNBCWorld.us" site_id="26849">CNBC World</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="Comet.us" site_id="97051">Comet</channel>
   <channel site="flixed.io" lang="en" xmltv_id="CoziTV.us" site_id="89994">COZI TV HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="CrimePlusInvestigation.us" site_id="61469">Crime &amp; Investigation Network HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="CWCentral.us" site_id="51337">CW (Central)</channel>
@@ -2517,7 +2535,6 @@
   <channel site="flixed.io" lang="en" xmltv_id="INSP.us" site_id="11066">INSP</channel>
   <channel site="flixed.io" lang="en" xmltv_id="IONTVCentral.us" site_id="18868">ION Television (Central)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="IONTVWest.us" site_id="24922">ION Television (West)</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="LawCrime.us" site_id="109553">Law &amp; Crime Stream</channel>
   <channel site="flixed.io" lang="en" xmltv_id="LonghornNetwork.us" site_id="72861">Longhorn Network HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MarqueeSportsNetwork.us" site_id="113768">Marquee Sports Network HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MASN.us" site_id="46817">MASN - Mid Atlantic Sports Network</channel>
