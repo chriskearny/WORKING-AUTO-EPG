@@ -1,5 +1,570 @@
 <?xml version='1.0' encoding='utf-8'?>
-<channels><channel site="tvpassport.com" lang="el" xmltv_id="Odyssey.ca" site_id="odyssey/412">Odyssey</channel>
+<channels><channel site="tv.blue.ch" lang="en" xmltv_id="2MInternational.ma" site_id="3">2M Monde</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlMasriyah.eg" site_id="154">Al Masriya</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ElWatania1.tn" site_id="1673">Tunisie Nationale</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="BN2.ba" site_id="1913">BN 2</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="BNTV.ba" site_id="48">BN TV Sat</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="HayatFolk.ba" site_id="196">Hayat FOLK</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="Hayatovci.ba" site_id="1966">Hayatovci</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="HayatPlus.ba" site_id="197">Hayat PLUS</channel>
+  <channel site="tv.blue.ch" lang="bs" xmltv_id="OBN.ba" site_id="1481">OBN TV</channel>
+  <channel site="tv.blue.ch" lang="cs" xmltv_id="CT24.cz" site_id="1699">CT24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="13thStreetUniversal.de" site_id="2">13th Street</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="3Plus.ch" site_id="4">3+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="3sat.de" site_id="6">3sat</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="4Plus.ch" site_id="7">4+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="5Plus.ch" site_id="8">5+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="6Plus.ch" site_id="1469">6+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="7PlusNickSchweiz.ch" site_id="289">7+ / Nickelodeon</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AlpenlandTV.ch" site_id="18">Alpenland TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AnimalPlanet.de" site_id="20">Animal Planet D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AnixeHDSerie.de" site_id="24">Anixe Serie</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ArcadiaTV.li" site_id="1950">ARCADIA world TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ARDalpha.de" site_id="26">ARD-alpha</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="arte.de" site_id="27">Arte Deutsch</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AuftankenTV.ch" site_id="1216">Auftanken TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AutoMotorogSportTV.no" site_id="1616">auto motor und sport</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="automotorundsportchannel.de" site_id="1783">auto motor sport</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="AXNBlack.de" site_id="32">AXN Black</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Bergblick.de" site_id="1409">Bergblick</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BibelTV.de" site_id="44">Bibel TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueAction.ch" site_id="591">blue Action</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueEvent1.ch" site_id="1282">blue Music D 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueRetro.ch" site_id="1226">blue Retro</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueSport1.ch" site_id="483">blue Sport D 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueSport2.ch" site_id="494">blue Sport D 2</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueStars.ch" site_id="589">blue Stars</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueZoomD.ch" site_id="1221">blue Zoom D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueZoomF.ch" site_id="420">blue Zoom F</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BodenseeTV.ch" site_id="49">Bodensee TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BonGusto.de" site_id="1569">BonGusto</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Boomerang.de" site_id="54">Cartoonito D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="BRFernsehenSud.de" site_id="55">BR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="CartoonNetwork.de" site_id="83">Cartoon Network D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ComedyCentral.de" site_id="110">Comedy Central</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="CrimePlusInvestigation.de" site_id="1334">Crime + Investigation D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="CuriosityChannel.de" site_id="396">Curiosity Channel</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DasErste.de" site_id="25">Das Erste</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DeluxeMusic.de" site_id="17">Deluxe Music</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DeutschesMusikFernsehen.de" site_id="121">Deutsches Musik Fernsehen</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DiscoveryChannel.de" site_id="122">Discovery Channel D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DisneyChannel.de" site_id="128">Disney Channel D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="DMAX.de" site_id="136">DMAX</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ducktv.sk" site_id="1626">ducktv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="eSports1.de" site_id="1553">eSports1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurochannel.uk" site_id="1635">Eurochannel D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="EuronewsGerman.fr" site_id="163">Euronews D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurosport1.de" site_id="167">Eurosport 1 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurosport2.de" site_id="170">Eurosport 2 D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="FixFoxi.de" site_id="1792">Fix &amp; Foxi TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="FolxMusicTelevision.de" site_id="180">folx.tv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GameTV.ch" site_id="1224">Game TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GEOTelevision.de" site_id="1333">GEO Television</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="GoldstarTVGermany.de" site_id="1786">Goldstar TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Heimatkanal.de" site_id="664">Heimatkanal</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HelvetiaOneTV.ch" site_id="1040">Helvetia One TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HGTV.us" site_id="1510">Home &amp; Garden TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="History.de" site_id="203">History</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HitExpressTV.ch" site_id="1825">HitExpress TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HopeChannelGerman.de" site_id="204">Hope TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="hrfernsehen.de" site_id="205">HR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="HSE.de" site_id="207">HSE</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsClassics.de" site_id="1389">kabel eins CLASSICS</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsDoku.de" site_id="920">kabel eins Doku</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsSchweiz.ch" site_id="226">Kabel eins</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Kanal9.ch" site_id="227">Kanal 9</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="KiKA.de" site_id="228">KiKa</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="KinoweltTV.de" site_id="1399">Kinowelt</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="KTV.at" site_id="233">K-TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="LiloTV.de" site_id="1914">Lilo TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="LolyTV.ch" site_id="1027">Loly TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MarcoPoloTV.de" site_id="1801">Marco Polo</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MDRFernsehenSachsen.de" site_id="256">MDR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MelodieTV.at" site_id="1376">MelodieTV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MoreThanSportsTV.de" site_id="1254">More Than Sports TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Motorvision.de" site_id="264">Motorvision TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MTV.de" site_id="268">MTV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Musig24TV.ch" site_id="275">musig24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="MySportsOne.ch" site_id="1543">MySports Eins</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="N24Doku.de" site_id="1030">N24 Doku</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="NationalGeographic.de" site_id="278">National Geographic D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="NationalGeographicWild.de" site_id="282">National Geographic Wild D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="NDRFernsehenHamburg.de" site_id="286">NDR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Nicktoons.de" site_id="1605">Nicktoons</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Nitro.de" site_id="363">Nitro</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ntv.de" site_id="297">n-tv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="One.de" site_id="147">One</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="OneMusicTelevision.de" site_id="1790">One Music Television</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORF1.at" site_id="303">ORF 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORF2.at" site_id="302">ORF 2</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORFIII.at" site_id="1222">ORF 3</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ORFSportPlus.at" site_id="1889">ORF Sport +</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="phoenix.de" site_id="307">Phoenix TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="PremiumShoppingTV.ch" site_id="1724">Premium Shopping</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenFun.de" site_id="1607">pro 7 fun</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenMaxx.de" site_id="323">ProSieben MAXX</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenSchweiz.ch" site_id="322">ProSieben</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="PulsAcht.ch" site_id="325">Puls 8</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="R9.at" site_id="326">R9 Österreich</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RadioPilatusTV.ch" site_id="308">Radio Pilatus TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="rbbFernsehenBerlin.de" site_id="342">RBB</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RegioTVplus.ch" site_id="904">regioTVplus</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RheinweltenTV.ch" site_id="1466">Rheinwelten TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RiC.de" site_id="350">RIC TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RomanceTV.de" site_id="354">Romance TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="rrotv.ch" site_id="1784">rrotv</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTL.de" site_id="360">RTL</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLCrime.de" site_id="361">RTL Crime</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLLiving.de" site_id="362">RTL Living</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLPassion.de" site_id="305">RTL Passion</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLSuper.de" site_id="411">Super RTL</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLup.de" site_id="919">RTLup</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLZwei.de" site_id="359">RTL ZWEI</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="S1.ch" site_id="374">S1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SAT1.de" site_id="375">SAT.1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SAT1Gold.de" site_id="377">SAT.1 GOLD</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SchaffhauserFernsehen.ch" site_id="382">SHf - Schaffhauser Fernsehen</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SchlagerDeluxe.de" site_id="1714">Schlager Deluxe</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ServusTV.at" site_id="381">Servus TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="sixx.de" site_id="385">sixx</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SonyChannel.de" site_id="1083">AXN White</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SpiegelGeschichte.de" site_id="395">Spiegel Geschichte</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Sport1.de" site_id="398">Sport1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Sport1Plus.de" site_id="1552">SPORT1+</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SportdigitalFUSSBALL.de" site_id="1554">SPORTDIGITAL FUSSBALL</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRF1.ch" site_id="399">SRF 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFernsehen.de" site_id="1502">SR Fernsehen</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFinfo.ch" site_id="400">SRF info</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFzwei.ch" site_id="401">SRF zwei</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="StarTV.ch" site_id="405">Star TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="StingrayClassica.ca" site_id="102">Stingray Classica D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Sudostschweiz.ch" site_id="621">TV Südostschweiz</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Swiss1.ch" site_id="1223">SWISS1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SwissSportTV.ch" site_id="1601">Swiss Sport TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SWRFernsehenBadenWurttemberg.de" site_id="414">SWR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="SYFY.de" site_id="415">Syfy D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="tagesschau24.de" site_id="417">Tagesschau24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Tele1.ch" site_id="570">Tele 1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TELE5.de" site_id="571">Tele 5</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleBarn.ch" site_id="572">Tele Bärn</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Telebasel.ch" site_id="586">Telebasel</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleBielingue.ch" site_id="573">Tele Bielingue</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleD.ch" site_id="574">Tele D</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleM1.ch" site_id="575">Tele M1</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleTop.ch" site_id="579">Tele Top</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Televista.ch" site_id="1468">Televista</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZ.ch" site_id="583">Tele Z</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZentralschweiz.ch" site_id="584">Tele Zentralschweiz</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZuri.ch" site_id="585">TeleZüri</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TLC.de" site_id="607">TLC</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TOGGOplus.de" site_id="918">Toggo Plus</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TV24.ch" site_id="634">TV24</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TV25.ch" site_id="665">TV25</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVO.ch" site_id="641">TVO</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVOberwallis.ch" site_id="628">TV Oberwallis</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="TVRheintal.ch" site_id="630">TV Rheintal</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="UHD1.lu" site_id="669">UHD1 by ASTRA</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="UniversalTV.de" site_id="1124">Universal TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="VolksmusikTV.de" site_id="1766">Volksmusik.TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="VOX.de" site_id="651">VOX</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="Voxup.de" site_id="1612">VOXup</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVComedy.de" site_id="611">Warner TV Comedy</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVFilm.de" site_id="610">Warner TV Film</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVSerie.de" site_id="612">Warner TV Serie</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WDRFernsehenKoln.de" site_id="654">WDR</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WELT.de" site_id="277">WELT</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WeltderWunderTV.de" site_id="655">Welt der Wunder TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="WettercomTV.de" site_id="1272">Wetter.TV</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDF.de" site_id="656">ZDF</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDFinfo.de" site_id="658">ZDFinfo</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDFneo.de" site_id="659">ZDFneo</channel>
+  <channel site="tv.blue.ch" lang="de" xmltv_id="ZweiMusicTelevision.de" site_id="1791">Zwei Music Television</channel>
+  <channel site="tv.blue.ch" lang="el" xmltv_id="ERTWorld.gr" site_id="153">ERT World</channel>
+  <channel site="tv.blue.ch" lang="el" xmltv_id="RIKSat.cy" site_id="351">RIK Sat</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="4seven.uk" site_id="1678">4Seven</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5Action.uk" site_id="1669">5Action</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5SELECT.uk" site_id="1670">5SELECT</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5STAR.uk" site_id="1652">5Star</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="5USA.uk" site_id="1411">5USA</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Alarabiya.ae" site_id="13">Al Arabiya</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlJazeera.qa" site_id="14">Al Jazeera</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="15">Al Jazeera English</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCFour.uk" site_id="35">BBC Four</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNews.uk" site_id="36">BBC News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="40">BBC World News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCOne.uk" site_id="37">BBC One</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCParliament.uk" site_id="1397">BBC Parliament</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCTwo.uk" site_id="39">BBC Two</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="46">Bloomberg TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CBBC.uk" site_id="85">BBC Three / CBBC</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CBeebies.uk" site_id="86">CBeebies</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CBSRealityEMEA.uk" site_id="1717">CBS Reality</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CCTV4Europe.cn" site_id="88">CCTV4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CGTN.cn" site_id="87">CGTN</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Challenge.uk" site_id="1682">Challenge</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Channel4.uk" site_id="89">Channel 4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Channel5.uk" site_id="178">Channel 5</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ClublandTV.uk" site_id="105">Clubland TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CNBCEurope.uk" site_id="106">CNBC UK</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="107">CNN</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Dave.uk" site_id="1507">Dave</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="DMAX.uk" site_id="1654">DMAX UK</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Drama.uk" site_id="902">Drama</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="DubaiTV.ae" site_id="138">Dubai TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="DWEnglish.de" site_id="142">DW Englisch</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="E4.uk" site_id="146">E4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="EnglishClubTV.uk" site_id="1398">English Club TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="164">Euronews E</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Eurosport1.fr" site_id="1488">Eurosport 1 E</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FashionTVEurope.fr" site_id="175">Fashion TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Film4.uk" site_id="176">Film Four</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FoodNetwork.uk" site_id="1292">Food Network E</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FoxNewsChannel.us" site_id="1509">Fox News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="France24English.fr" site_id="1639">France 24 English</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="FunBoxUHD.nl" site_id="1256">Fun Box Ultra</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GBNews.uk" site_id="1823">GB News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GINXEsportsTV.uk" site_id="1408">Ginx TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATaction.uk" site_id="1810">Great! movies action</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATmovies.uk" site_id="1809">Great! movies</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATromance.uk" site_id="1805">Great! Romance</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="i24NEWSEnglishWorld.il" site_id="208">i24 News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="InsightTV.nl" site_id="1029">INPLUS</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="InsightUHD.nl" site_id="667">INULTRA</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV1.uk" site_id="218">ITV1</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV2.uk" site_id="219">ITV2</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV3.uk" site_id="220">ITV3</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV4.uk" site_id="221">ITV4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="ITVBe.uk" site_id="1400">ITVBe</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="KBSWorld.kr" site_id="1500">KBS World</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="LoveNature4K.ca" site_id="1375">Love Nature 4K</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="More4.uk" site_id="262">More 4</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="NASATVUHD.us" site_id="1378">NASA TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="287">NHK World</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Now70s.uk" site_id="1716">Now 70s</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Now80s.uk" site_id="1715">Now 80s</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="NOWRock.uk" site_id="94">Now Rock</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="PBSAmerica.uk" site_id="1404">PBS America</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="PhoenixInfoNewsChannel.hk" site_id="306">Phoenix Info News</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Quest.uk" site_id="1604">Quest</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="RTRPlanetaEurope.ru" site_id="366">RTR Planeta</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="SkyMix.uk" site_id="1677">Pick</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="390">Sky News International</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayFestival4K.ca" site_id="1257">Stingray Festival 4K</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayiConcerts.ca" site_id="211">Stingray iConcerts</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="TheIsraeliNetwork.il" site_id="1457">The Israeli Network</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="VoATVGlobal.us" site_id="1637">Voice of America</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Yesterday.uk" site_id="1674">Yesterday</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="24Horas.es" site_id="71">Canal 24 Horas</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Antena3.es" site_id="1953">Antena 3 Int.</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="AragonTVInternacional.es" site_id="1535">Aragón TV Int</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Atreseries.es" site_id="1954">Atreseries</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="CanalSurAndalucia.es" site_id="19">Canal Sur Andalucía</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="DePeliculaEuropa.mx" site_id="117">De Pelicula</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="GVAXTV.ch" site_id="1757">GVAX Latino TV</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="LasEstrellasEuropa.mx" site_id="75">Las Estrellas</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TelehitMusica.mx" site_id="352">Telehit Music</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="Telesur.ve" site_id="1668">teleSUR</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TlnovelasEuropa.mx" site_id="608">Tlnovelas</channel>
+  <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="13emeRue.fr" site_id="1">13eme Rue</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="6terSwitzerland.ch" site_id="9">6ter</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="AB1.fr" site_id="11">AB1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="AB3.be" site_id="1081">AB 3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Action.fr" site_id="12">Action</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="AjoieTV.ch" site_id="1456">Ajoie TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Animaux.fr" site_id="22">Animaux</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="arte.fr" site_id="28">Arte Français</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Automotolachaine.fr" site_id="10">AUTOMOTO</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BFMBusiness.fr" site_id="42">BFM Business</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BFMTV.fr" site_id="43">BFM TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="BlueEvent2.ch" site_id="1283">blue Music F 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Boing.fr" site_id="52">Cartoonito F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Boomerang.fr" site_id="53">Boomerang F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="C8.fr" site_id="115">C8</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Canal9.ch" site_id="72">Canal 9</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalAlphaJU.ch" site_id="73">Canal Alpha JU</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalAlphaNE.ch" site_id="74">Canal Alpha NE</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalJ.fr" site_id="76">Canal J</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlus.fr" site_id="57">CANAL+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusCinema.fr" site_id="58">CANAL+ Cinema(s)</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusDocs.fr" site_id="1967">Canal+ Docs</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusFoot.fr" site_id="1972">Canal+ Foot</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusKids.fr" site_id="64">CANAL+ Kids</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusPremierLeague.fr" site_id="1947">CANAL+ PREMIER LEAGUE</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSeries.fr" site_id="68">CANAL+ Series</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSport.fr" site_id="69">CANAL+ Sport</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSport360.fr" site_id="1974">Canal+ Sport 360</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CartoonNetwork.fr" site_id="82">Cartoon Network F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ChassePeche.fr" site_id="92">Chasse et Peche</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Cherie25.fr" site_id="93">Chérie 25</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusClassic.fr" site_id="59">Ciné+ Classic</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusClub.fr" site_id="60">Ciné+ Club</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusEmotion.fr" site_id="62">Cine+ Emotion</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusFamiz.fr" site_id="65">Ciné+ Famiz</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusFrisson.fr" site_id="66">Cine+ Frisson</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusPremier.fr" site_id="67">Ciné + Premier</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CNews.fr" site_id="217">CNEWS</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ComediePlus.fr" site_id="109">Comedie!+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ComedyCentral.fr" site_id="1969">Comedy Central F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CrimeDistrict.fr" site_id="1128">Crime District</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="CStar.fr" site_id="114">CSTAR</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DiscoveryChannel.fr" site_id="123">Discovery F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DiscoveryScience.fr" site_id="125">Science Channel F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DisneyChannel.fr" site_id="129">Disney Channel F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="DisneyJunior.fr" site_id="132">Disney Junior F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Equidia.fr" site_id="151">Equidia Live</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="EuronewsFrench.fr" site_id="165">Euronews F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Eurosport2.fr" site_id="171">Eurosport 2 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France2.fr" site_id="182">France 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France24French.fr" site_id="183">France 24</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France3.fr" site_id="184">France 3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France4.fr" site_id="185">France 4</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="France5.fr" site_id="186">France 5</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Franceinfo.fr" site_id="1064">franceinfo</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GameOne.fr" site_id="1772">Game One</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GeneveRegionTelevision.fr" site_id="582">Genève Région Television/TéléVersoix</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GolfChannel.fr" site_id="192">Golf Channel</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GolfPlus.fr" site_id="193">GOLF+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="GrandGeneveTV.fr" site_id="1328">Grand Genève TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Gulli.fr" site_id="195">Gulli</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="HistoireTV.fr" site_id="202">histoire</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="i24NEWSFrench.il" site_id="209">i24 News Français</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="InfosportPlus.fr" site_id="213">infosport+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="JOne.fr" site_id="1765">J-One</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="KTO.fr" site_id="232">KTO</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LaChaineMeteo.fr" site_id="1760">la chaîne météo</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LaTele.ch" site_id="242">La Télé</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LCI.fr" site_id="241">La Chaine Info</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LCP.fr" site_id="1658">La Chaîne parlementaire</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LemanBleu.ch" site_id="244">Léman Bleu Télévision</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LEquipe.fr" site_id="245">L'Equipe</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="LFMTV.ch" site_id="246">CARAC 3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="M6.ch" site_id="249">M6</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Mangas.fr" site_id="252">Mangas</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MaxTV.ch" site_id="253">Max TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MCM.fr" site_id="1532">MCM</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MCMTop.fr" site_id="255">MCM Top</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Melody.fr" site_id="1761">Melody</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Mezzo.fr" site_id="258">Mezzo</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MezzoLive.fr" site_id="1541">Mezzo Live</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MGGTV.fr" site_id="1406">MGGTV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="Motorsporttv.fr" site_id="1723">Motorvision.TV France</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MTV.fr" site_id="1979">MTV France</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports2French.ch" site_id="1558">MySports 2 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports3French.ch" site_id="1559">MySports 3 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports4French.ch" site_id="1560">MySports 4 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports5French.ch" site_id="1561">MySports 5 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports6French.ch" site_id="1562">MySports 6 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports7French.ch" site_id="1563">MySports 7 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports8French.ch" site_id="1564">MySports 8 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports9French.ch" site_id="1565">MySports 9 F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySportsOneFrench.ch" site_id="1557">MySports Un</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NationalGeographic.fr" site_id="279">National Geographic F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NationalGeographicWild.fr" site_id="283">National Geographic Wild F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Nickelodeon.fr" site_id="291">Nickelodeon</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NickelodeonJunior.fr" site_id="290">Nickelodeon Junior</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NickelodeonTeen.fr" site_id="1767">Nickelodeon Teen</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NovelasTV.fr" site_id="1731">Novelas</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NRJ12.fr" site_id="293">NRJ12</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="NRTV.ch" site_id="294">NRTV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OlympiaTV.fr" site_id="1729">Olympia TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="OneTV.ch" site_id="301">CARAC 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ORTBTV.bj" site_id="1686">ORTB</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ParamountChannel.fr" site_id="304">Paramount F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PiwiPlus.fr" site_id="315">Piwi+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlus.fr" site_id="316">Planète+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlusAventure.fr" site_id="317">Planète+ A&amp;E</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlusCrime.fr" site_id="318">Planète+ C&amp;I</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="PolarPlus.fr" site_id="1273">Polar+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RFMTV.fr" site_id="349">RFM TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCDecouverte.fr" site_id="353">RMC Découverte</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCStory.fr" site_id="298">RMC Story</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RougeTV.ch" site_id="355">CARAC 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTL9.lu" site_id="364">RTL9</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTS1.ch" site_id="369">RTS 1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTS2.ch" site_id="367">RTS 2</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ScienceVieTV.fr" site_id="379">Science &amp; Vie</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Seasons.fr" site_id="380">Seasons</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="StingrayDJAZZ.ca" site_id="1606">Stingray djazz</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Syfy.fr" site_id="416">Syfy F</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TeleSwizz.ch" site_id="41">Teleswizz</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TeletoonPlus.fr" site_id="595">Télétoon+</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TF1SeriesFilms.fr" site_id="199">TF1 Séries Films</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TF1Switzerland.ch" site_id="601">TF1</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TFXSwitzerland.ch" site_id="295">TFX</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TiJi.fr" site_id="605">Tiji</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TMC.fr" site_id="609">TMC</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Toonami.fr" site_id="1330">WarnerTV Next</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="ToutelHistoire.fr" site_id="615">Toute l'Histoire</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceCaribbean.fr" site_id="616">Trace Caribbean</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceLatina.fr" site_id="1987">Trace Latina</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceUrban.fr" site_id="1079">Trace Urban</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="Trek.fr" site_id="618">Trek</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV5MondeEurope.fr" site_id="635">TV5 MONDE EUROPE</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" site_id="636">TV5 Monde FBS</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV8MontBlanc.fr" site_id="637">TV8 Mont Blanc</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVBreizh.fr" site_id="622">tv breizh</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVM3.ch" site_id="640">TVM3</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVOnex.ch" site_id="1331">TV Onex</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVSuissePlus.ch" site_id="1082">CARAC 4</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="UshuaiaTV.fr" site_id="644">Ushuaia TV</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="VernierVisions.ch" site_id="1467">Vernier Visions</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="W9Switzerland.ch" site_id="653">W9</channel>
+  <channel site="tv.blue.ch" lang="fr" xmltv_id="WarnerTV.fr" site_id="1329">Warner TV</channel>
+  <channel site="tv.blue.ch" lang="gl" xmltv_id="GaliciaTVEuropa.es" site_id="624">Televisión de Galicia</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="UtsavGold.in" site_id="403">Utsav Gold</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="UtsavPlus.uk" site_id="404">Utsav Plus</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="AdriaMusicTelevision.de" site_id="1949">ADRIA MUSIC TELEVISION</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="CMCTV.hr" site_id="112">Croatian Music Channel</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="HRT1.hr" site_id="206">HRT 1</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="HRTInternational.hr" site_id="1664">HRT Int.</channel>
+  <channel site="tv.blue.ch" lang="hr" xmltv_id="Z1.hr" site_id="632">Z1 Televizija</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="Duna.hu" site_id="1529">Duna TV</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="DunaWorld.hu" site_id="140">Duna World</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="M1.hu" site_id="1528">M1</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="M2.hu" site_id="1527">M2</channel>
+  <channel site="tv.blue.ch" lang="hu" xmltv_id="M5.hu" site_id="1531">M5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="20.it" site_id="1379">20 Mediaset</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="7Gold.it" site_id="1388">Telecity 7 Gold</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="AlmaTV.it" site_id="16">ALMA TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="AntennaTre.it" site_id="1380">Antenna 3</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Boing.it" site_id="51">Boing I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="CameradeiDeputati.it" site_id="1808">Camera dei Deputati</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Canale5.it" site_id="79">Canale 5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="CanaleItalia.it" site_id="80">Canale Italia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Cartoonito.it" site_id="84">cartoonito I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Cielo.it" site_id="96">Cielo</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Cine34.it" site_id="1665">Cine34</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ClassTVModa.it" site_id="101">Class TV Moda</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="CrimePlusInvestigation.it" site_id="1975">Sky Crime IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="DeejayTV.it" site_id="1641">Deejay TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="DiscoveryChannel.it" site_id="124">Discovery Channel I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="DMAX.it" site_id="137">DMAX Italia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="EspansioneTV.it" site_id="1645">Espansione TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="EuronewsItalian.fr" site_id="166">Euronews I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Eurosport1.it" site_id="169">Eurosport 1 I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Eurosport2.it" site_id="172">Eurosport 2 I</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Focus.it" site_id="1346">Focus</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="FoodNetwork.it" site_id="1348">Food Network IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Frisbee.it" site_id="189">Frisbee</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Giallo.it" site_id="191">Giallo</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="HGTV.it" site_id="1646">Home &amp; Garden TV IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="History.it" site_id="1693">History IT</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Iris.it" site_id="214">IRIS</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Italia1.it" site_id="215">Italia 1</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Italia2.it" site_id="216">Italia 2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ItaliaChannel.it" site_id="1382">Italia Channel</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ItalianFishingTV.it" site_id="1644">Italian Fishing TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="K2.it" site_id="225">K2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="La5.it" site_id="243">La5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="LA7.it" site_id="237">La 7</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="LA7d.it" site_id="239">La 7d</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="MediasetExtra.it" site_id="257">Mediaset Extra</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="MotorTrend.it" site_id="1384">Motor Trend</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Nove.it" site_id="118">NOVE</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="ParolediVita.it" site_id="1951">Parole di Vita</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioItaliaTV.it" site_id="647">Video Italia TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioNorbaTV.it" site_id="1499">Radionorba TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioTicinoChannel.it" site_id="1799">Radio Ticino Channel</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai1.it" site_id="327">Rai 1</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai2.it" site_id="328">Rai 2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai3.it" site_id="329">Rai 3</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai4.it" site_id="330">Rai 4</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai5.it" site_id="331">Rai 5</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiGulp.it" site_id="332">Rai Gulp</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiMovie.it" site_id="334">Rai Movie</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiNews24.it" site_id="335">Rai News 24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiPremium.it" site_id="336">Rai Premium</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiScuola.it" site_id="337">Rai Scuola</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiSportHD.it" site_id="338">Rai Sport +</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiStoria.it" site_id="340">Rai Storia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiYoyo.it" site_id="341">Rai Yoyo</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RealTime.it" site_id="346">Real Time</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Rete4.it" site_id="348">Rete 4</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RSILa1.ch" site_id="356">RSI La 1</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RSILa2.ch" site_id="357">RSI LA 2</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="RTL1025TV.it" site_id="1489">RTL 102.5 TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SanMarinoRTV.sm" site_id="1719">San Marino RTV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SenatoTV.it" site_id="1671">Senato TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SkyTG24.it" site_id="393">sky TG 24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Sportitalia.it" site_id="1387">SPORTITALIA</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Super.it" site_id="412">Super!</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="SuperTennis.it" site_id="1386">SuperTennis TV</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Telelombardia.it" site_id="592">Telelombardia</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Telenova.it" site_id="593">Telenova</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TeleTicino.ch" site_id="578">Tele Ticino</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TGCom24.it" site_id="1287">TGCom24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TopCalcio24.it" site_id="1667">Top Calcio 24</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TopCrime.it" site_id="613">Top Crime</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TV2000.it" site_id="633">TV2000</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="TV8.it" site_id="266">TV8</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="Twentyseven.it" site_id="1948">Twentyseven</channel>
+  <channel site="tv.blue.ch" lang="it" xmltv_id="UniNettunoUniversityTV.it" site_id="643">UniNettuno University TV</channel>
+  <channel site="tv.blue.ch" lang="ku" xmltv_id="KurdistanTV.iq" site_id="235">Kurdistan TV</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="RudawTV.iq" site_id="372">Rudaw TV</channel>
+  <channel site="tv.blue.ch" lang="ku" xmltv_id="TRTKurdi.tr" site_id="619">TRT Kurdi</channel>
+  <channel site="tv.blue.ch" lang="nl" xmltv_id="BVN.nl" site_id="56">BVN TV</channel>
+  <channel site="tv.blue.ch" lang="pl" xmltv_id="TVPPolonia.pl" site_id="629">TVP Polonia</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="Canal11.pt" site_id="1980">Canal 11</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="RecordTVEuropa.pt" site_id="347">Record TV</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="RTP3.pt" site_id="1484">RTP 3</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="RTPInternacional.pt" site_id="365">RTP Internacional</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICInternacional.pt" site_id="384">SIC Internacional</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICNoticias.pt" site_id="1482">SIC Noticias</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="TVIFiccao.pt" site_id="1487">TVI Ficção</channel>
+  <channel site="tv.blue.ch" lang="pt" xmltv_id="TVIInternacional.pt" site_id="1483">TVI Internacional</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="Digi24.ro" site_id="1650">Digi 24</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="PROTVInternational.ro" site_id="321">Pro TV International</channel>
+  <channel site="tv.blue.ch" lang="ro" xmltv_id="TVRInternational.ro" site_id="631">TV Romania International</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="NashKinomir.de" site_id="229">Kinomir</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="OstWest.de" site_id="922">OstWest</channel>
+  <channel site="tv.blue.ch" lang="ru" xmltv_id="TelebomTeledom.de" site_id="587">TeleBom - TeleDom</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="ABCNews.al" site_id="1880">ABC News</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="EuronewsAlbania.al" site_id="1894">Euronews AL</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="FaxNews.al" site_id="1895">Fax News</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="Kohavision.xk" site_id="234">KTV Kohavision</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="OraTV.al" site_id="1878">TV Ora</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTK1.xk" site_id="358">RTK1</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTSH3.al" site_id="1681">RTSH 3</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTV21.xk" site_id="370">RTV 21</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTVDukagjini.xk" site_id="1446">TV Dukagjini</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="T7.xk" site_id="1689">T7</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TopChannel.al" site_id="1877">Top Channel</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TV21.mk" site_id="1893">RTV21 M</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TVArta.xk" site_id="1896">Arta News</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="TVKlan.al" site_id="1782">TV Klan</channel>
+  <channel site="tv.blue.ch" lang="sq" xmltv_id="ZICOTV.rs" site_id="1679">Zico TV</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="BNMusic.ba" site_id="1649">BN Music</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="DMSat.rs" site_id="135">DM Sat TV</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkExtra.rs" site_id="309">Pink Extra</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkFilm.rs" site_id="310">Pink Film</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkFolk1.rs" site_id="1413">Pink Folk</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkKids.rs" site_id="311">Pink Kids</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkKoncert.rs" site_id="312">Pink Koncert</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkMusic.rs" site_id="313">Pink Music</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkPlus.rs" site_id="314">Pink Plus</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkReality.rs" site_id="1459">Pink Reality</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkSerije.rs" site_id="1692">Pink Serije</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="RTSSvet.rs" site_id="1445">RTS Svet</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="TVDugaPlus.rs" site_id="1662">TV Duga+</channel>
+  <channel site="tv.blue.ch" lang="sr" xmltv_id="TVKCN3.rs" site_id="413">K::CN 3</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="VijayTVAsia.in" site_id="407">Vijay TV</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="360.tr" site_id="394">360</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ATV.tr" site_id="1718">ATV (TR)</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ATVAvrupa.tr" site_id="30">ATV Avrupa</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="CNNTurk.tr" site_id="1656">CNN Türk</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroStar.tr" site_id="162">Euro Star</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowMax.tr" site_id="1297">Showmax</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowTV.tr" site_id="383">Show</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEU.tr" site_id="602">TGRT EU</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="1478">TRT Belgesel</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTCocuk.tr" site_id="1477">TRT Çocuk</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTMuzik.tr" site_id="1480">TRT Müzik</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTSpor.tr" site_id="1479">TRT Spor</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTTurk.tr" site_id="620">TRT Türk</channel>
+  <channel site="tv.blue.ch" lang="tr" xmltv_id="TV8International.tr" site_id="638">TV8 Int.</channel>
+  <channel site="tvpassport.com" lang="el" xmltv_id="Odyssey.ca" site_id="odyssey/412">Odyssey</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCCentral.us" site_id="abc--central/9910">ABC - Central</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCEast.us" site_id="abc--eastern/1224">ABC - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ABCMountain.us" site_id="abc--mountain/9911">ABC - Mountain</channel>
@@ -704,7 +1269,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyXD.ca" site_id="disney-xd-canada-hd/17173">Disney XD Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyXDEast.us" site_id="disney-xd-usa--eastern-feed/1053">Disney XD USA - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DisneyXDWest.us" site_id="disney-xd-usa--pacific-feed/1208">Disney XD USA - Pacific Feed</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="DWEnglish.de" site_id="dw-english/426">DW English</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EEast.us" site_id="e-entertainment-usa--eastern-feed/617">E! Entertainment USA - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EWest.us" site_id="e-entertainment-usa--pacific-feed/1213">E! Entertainment USA - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlusEast.us" site_id="epix--east/7609">MGM+ East</channel>
@@ -721,8 +1285,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPU.us" site_id="espn-u-hd/6245">ESPN U HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPN2.us" site_id="espn2-hd/3379">ESPN2 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESTV.us" site_id="estv-hd/18805">ES.TV HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="EuronewsFrench.fr" site_id="euronews--francais/3900">Euronews - Français</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="euronews/2121">EuroNews</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ShopHQ.us" site_id="evine/1523">SHOPHQ</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="EWTN.us" site_id="ewtn-usa/620">EWTN USA</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetwork.ca" site_id="food-network-canada-dv/8388">Food Network Canada DV</channel>
@@ -885,7 +1447,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="KYLEDT2.us" site_id="fox-kyle-dt2-bryan-tx-hd/16824">FOX (KYLE-DT2) Bryan, TX HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KYOUDT1.us" site_id="fox-kyou-ottumwa-ia-hd/18819">FOX (KYOU) Ottumwa, IA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="KZJODT2.us" site_id="fox-kzjo-dt2-seattle-wa/11753">FOX (KZJO-DT2) Seattle, WA</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="FoxNewsChannel.us" site_id="fox-news-hd/6207">Fox News HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxSoccerPlus.us" site_id="fox-soccer-plus-hd/11551">FOX Soccer Plus HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxSports1.us" site_id="fox-sports-1-hd/11137">Fox Sports 1 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxSports2.us" site_id="fox-sports-2-hd/10263">Fox Sports 2 HD</channel>
@@ -1014,7 +1575,6 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="WZAWLD1.us" site_id="fox-wzaw-wausau-wi-hd/6373">FOX (WZAW) Wausau, WI HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WZDXDT1.us" site_id="fox-wzdx-huntsville-al-hd/6726">FOX54.1 Huntsville, AL HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="WZTVDT1.us" site_id="fox-wztv-nashville-tn-hd/6727">FOX (WZTV) Nashville, TN HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="France24English.fr" site_id="france-24-english/14114">France 24 English</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FreeformEast.us" site_id="freeform--east-feed/1011">Freeform - East Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FreeformWest.us" site_id="freeform--pacific-feed/1197">Freeform - Pacific Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FuseEast.us" site_id="fuse-tv--eastern-feed/1486">FUSE TV - Eastern feed</channel>
@@ -1903,9 +2463,22 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="TBD.us" site_id="tbd-tv/31478">TBD TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheGrioTV.us" site_id="the-grio-eastern-feed/32034">The Grio - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TheNest.us" site_id="the-nest/14118">The Nest</channel>
-<channel site="flixed.io" lang="en" xmltv_id="AEEast.us" site_id="10035">A&amp;E (East)</channel>
+<channel site="tvguide.com" lang="en" xmltv_id="AEEast.us" site_id="9100001138#9200004889">A&amp;E Network (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FanDuelTV.us" site_id="9100001138#9200012412">FanDuel TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FlixEast.us" site_id="9100001138#9233000217">Flix (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="GameShowNetworkEast.us" site_id="9100001138#9200019858">GSN (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9100001138#9233008002">History (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="IONTVEast.us" site_id="9100001138#9233011910">ION East Cable/Dish</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="LifetimeRealWomen.us" site_id="9100001138#9233001621">Lifetime Real Women</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MagnoliaNetworkEast.us" site_id="9100001138#9200012415">Magnolia Network [East]</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MoreMaxEast.us" site_id="9100001138#9233015766">More Max (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="PBSEast.us" site_id="9100001138#9233004141">PBS</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Science.us" site_id="9100001138#9200019847">Science</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SmithsonianChannelEast.us" site_id="9100001138#9233002112">Smithsonian Channel (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TheCW.us" site_id="9100001138#9233011398">The CW</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TheMovieChannelEast.us" site_id="9100001138#9233015305">The Movie Channel (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="USANetworkEast.us" site_id="9100001138#9233004106">USA Network (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="AEWest.us" site_id="21760">A&amp;E (West)</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="47176">Al Jazeera America</channel>
   <channel site="flixed.io" lang="en" xmltv_id="AltitudeSports.us" site_id="44263">Altitude Sports and Entertainment Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="AntennaTV.us" site_id="70248">Antenna TV</channel>
   <channel site="flixed.io" lang="en" xmltv_id="Aspire.us" site_id="97409">ASPiRE HD</channel>
@@ -1957,22 +2530,17 @@
   <channel site="flixed.io" lang="en" xmltv_id="FoxLife.us" site_id="73812">Fox Life</channel>
   <channel site="flixed.io" lang="en" xmltv_id="FuboSportsNetwork.us" site_id="106100">Fubo Sports Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="Fusion.us" site_id="83174">Fusion HD</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="GameShowNetworkEast.us" site_id="14909">Game Show Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="HallmarkDrama.us" site_id="105723">Hallmark Drama</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="HistoryEast.us" site_id="14771">History (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="HistoryWest.us" site_id="21762">History (West)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="INSP.us" site_id="11066">INSP</channel>
   <channel site="flixed.io" lang="en" xmltv_id="IONTVCentral.us" site_id="18868">ION Television (Central)</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="IONTVEast.us" site_id="18633">ION Television (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="IONTVWest.us" site_id="24922">ION Television (West)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="LonghornNetwork.us" site_id="72861">Longhorn Network HD</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="MagnoliaNetworkEast.us" site_id="67375">Do-It-Yourself Network HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MarqueeSportsNetwork.us" site_id="113768">Marquee Sports Network HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MASN.us" site_id="46817">MASN - Mid Atlantic Sports Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MAVTV.us" site_id="61036">MavTV HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MLB.us" site_id="62079">MLB Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MLBStrikeZone.us" site_id="75219">MLB Network Strike Zone</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="MoreMaxEast.us" site_id="10121">MoreMAX (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MoreMaxWest.us" site_id="16620">MoreMAX (West)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="MSGPlus2.us" site_id="65492">MSG Plus HD Zone 2</channel>
   <channel site="flixed.io" lang="en" xmltv_id="NBCLX.us" site_id="114278">LX</channel>
@@ -1992,14 +2560,11 @@
   <channel site="flixed.io" lang="en" xmltv_id="Pac12Networks.us" site_id="76366">Pac-12 Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="Pac12Oregon.us" site_id="76378">Pac-12 Oregon HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="Pac12Washington.us" site_id="76379">Pac-12 Washington HD</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="PBSEast.us" site_id="11039">PBS (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="PBSWest.us" site_id="60057">PBS (West)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="PeopleTV.us" site_id="107584">PeopleTV</channel>
   <channel site="flixed.io" lang="en" xmltv_id="Pop.us" site_id="16715">POP</channel>
   <channel site="flixed.io" lang="en" xmltv_id="RootSportsNorthwest.us" site_id="11062">ROOT Sports Northwest</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="Science.us" site_id="16616">Science</channel>
   <channel site="flixed.io" lang="en" xmltv_id="ShoxBetEast.us" site_id="20622">SHO x BET</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="SmithsonianChannelEast.us" site_id="58532">Smithsonian HD Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="SonyMovies.us" site_id="69130">Sony Movie Channel HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="SpectrumSportsNet.us" site_id="77375">Spectrum SportsNet</channel>
   <channel site="flixed.io" lang="en" xmltv_id="SpectrumSportsNetLA.us" site_id="87023">Spectrum SportsNet LA</channel>
@@ -2015,7 +2580,6 @@
   <channel site="flixed.io" lang="en" xmltv_id="StarzCinemaEast.us" site_id="67236">Starz Cinema HD</channel>
   <channel site="flixed.io" lang="en" xmltv_id="Tastemade.us" site_id="107076">Tastemade [Str]</channel>
   <channel site="flixed.io" lang="en" xmltv_id="TeenNickEast.us" site_id="97047">Teen Nick HD</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="TheMovieChannelEast.us" site_id="11160">The Movie Channel (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="TheMovieChannelWest.us" site_id="12509">The Movie Channel (West)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="TheMovieChannelXtraEast.us" site_id="17663">The Movie Channel Extra (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="TheMovieChannelXtraWest.us" site_id="17687">The Movie Channel Extra (West)</channel>
@@ -2025,7 +2589,6 @@
   <channel site="flixed.io" lang="en" xmltv_id="TrinityChannel.us" site_id="14767">Trinity Broadcasting Network</channel>
   <channel site="flixed.io" lang="en" xmltv_id="TyCSportsNorthAmerica.ar" site_id="92876">TyC Sports International English</channel>
   <channel site="flixed.io" lang="en" xmltv_id="UniversalKidsEast.us" site_id="70225">Universal Kids HD</channel>
-  <channel site="flixed.io" lang="en" xmltv_id="USANetworkEast.us" site_id="11207">USA Network (East)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="USANetworkWest.us" site_id="11208">USA Network (West)</channel>
   <channel site="flixed.io" lang="en" xmltv_id="VSiN.us" site_id="108970">Vegas Sports &amp; Information Network (VSIN)</channel>
   <channel site="flixed.io" lang="es" xmltv_id="BabyTV.uk" site_id="56036">Baby TV</channel>
@@ -2049,567 +2612,4 @@
   <channel site="flixed.io" lang="es" xmltv_id="VideoRola.mx" site_id="88813">Video Rola HD</channel>
   <channel site="flixed.io" lang="es" xmltv_id="WAPADT1.pr" site_id="44322">WAPA America</channel>
   <channel site="flixed.io" lang="fr" xmltv_id="beINSports2.fr" site_id="87224">BeIN SPORTS 2 HD</channel>
-<channel site="tvguide.com" lang="en" xmltv_id="FanDuelTV.us" site_id="9100001138#9200012412">FanDuel TV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="FlixEast.us" site_id="9100001138#9233000217">Flix (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="LifetimeRealWomen.us" site_id="9100001138#9233001621">Lifetime Real Women</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="TheCW.us" site_id="9100001138#9233011398">The CW</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="2MInternational.ma" site_id="3">2M Monde</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="AlMasriyah.eg" site_id="154">Al Masriya</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ElWatania1.tn" site_id="1673">Tunisie Nationale</channel>
-  <channel site="tv.blue.ch" lang="bs" xmltv_id="BN2.ba" site_id="1913">BN 2</channel>
-  <channel site="tv.blue.ch" lang="bs" xmltv_id="BNTV.ba" site_id="48">BN TV Sat</channel>
-  <channel site="tv.blue.ch" lang="bs" xmltv_id="HayatFolk.ba" site_id="196">Hayat FOLK</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="Hayatovci.ba" site_id="1966">Hayatovci</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="HayatPlus.ba" site_id="197">Hayat PLUS</channel>
-  <channel site="tv.blue.ch" lang="bs" xmltv_id="OBN.ba" site_id="1481">OBN TV</channel>
-  <channel site="tv.blue.ch" lang="cs" xmltv_id="CT24.cz" site_id="1699">CT24</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="13thStreetUniversal.de" site_id="2">13th Street</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="3Plus.ch" site_id="4">3+</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="3sat.de" site_id="6">3sat</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="4Plus.ch" site_id="7">4+</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="5Plus.ch" site_id="8">5+</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="6Plus.ch" site_id="1469">6+</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="7PlusNickSchweiz.ch" site_id="289">7+ / Nickelodeon</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="AlpenlandTV.ch" site_id="18">Alpenland TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="AnimalPlanet.de" site_id="20">Animal Planet D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="AnixeHDSerie.de" site_id="24">Anixe Serie</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ArcadiaTV.li" site_id="1950">ARCADIA world TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ARDalpha.de" site_id="26">ARD-alpha</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="arte.de" site_id="27">Arte Deutsch</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="AuftankenTV.ch" site_id="1216">Auftanken TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="AutoMotorogSportTV.no" site_id="1616">auto motor und sport</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="automotorundsportchannel.de" site_id="1783">auto motor sport</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="AXNBlack.de" site_id="32">AXN Black</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Bergblick.de" site_id="1409">Bergblick</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BibelTV.de" site_id="44">Bibel TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueAction.ch" site_id="591">blue Action</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueEvent1.ch" site_id="1282">blue Music D 1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueRetro.ch" site_id="1226">blue Retro</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueSport1.ch" site_id="483">blue Sport D 1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueSport2.ch" site_id="494">blue Sport D 2</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueStars.ch" site_id="589">blue Stars</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueZoomD.ch" site_id="1221">blue Zoom D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BlueZoomF.ch" site_id="420">blue Zoom F</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BodenseeTV.ch" site_id="49">Bodensee TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BonGusto.de" site_id="1569">BonGusto</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Boomerang.de" site_id="54">Cartoonito D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="BRFernsehenSud.de" site_id="55">BR</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="CartoonNetwork.de" site_id="83">Cartoon Network D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ComedyCentral.de" site_id="110">Comedy Central</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="CrimePlusInvestigation.de" site_id="1334">Crime + Investigation D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="CuriosityChannel.de" site_id="396">Curiosity Channel</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="DasErste.de" site_id="25">Das Erste</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="DeluxeMusic.de" site_id="17">Deluxe Music</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="DeutschesMusikFernsehen.de" site_id="121">Deutsches Musik Fernsehen</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="DiscoveryChannel.de" site_id="122">Discovery Channel D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="DisneyChannel.de" site_id="128">Disney Channel D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="DMAX.de" site_id="136">DMAX</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ducktv.sk" site_id="1626">ducktv</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="eSports1.de" site_id="1553">eSports1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurochannel.uk" site_id="1635">Eurochannel D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="EuronewsGerman.fr" site_id="163">Euronews D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurosport1.de" site_id="167">Eurosport 1 D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Eurosport2.de" site_id="170">Eurosport 2 D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="FixFoxi.de" site_id="1792">Fix &amp; Foxi TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="FolxMusicTelevision.de" site_id="180">folx.tv</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="GameTV.ch" site_id="1224">Game TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="GEOTelevision.de" site_id="1333">GEO Television</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="GoldstarTVGermany.de" site_id="1786">Goldstar TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Heimatkanal.de" site_id="664">Heimatkanal</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="HelvetiaOneTV.ch" site_id="1040">Helvetia One TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="HGTV.us" site_id="1510">Home &amp; Garden TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="History.de" site_id="203">History</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="HitExpressTV.ch" site_id="1825">HitExpress TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="HopeChannelGerman.de" site_id="204">Hope TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="hrfernsehen.de" site_id="205">HR</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="HSE.de" site_id="207">HSE</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsClassics.de" site_id="1389">kabel eins CLASSICS</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsDoku.de" site_id="920">kabel eins Doku</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="kabeleinsSchweiz.ch" site_id="226">Kabel eins</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Kanal9.ch" site_id="227">Kanal 9</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="KiKA.de" site_id="228">KiKa</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="KinoweltTV.de" site_id="1399">Kinowelt</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="KTV.at" site_id="233">K-TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="LiloTV.de" site_id="1914">Lilo TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="LolyTV.ch" site_id="1027">Loly TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="MarcoPoloTV.de" site_id="1801">Marco Polo</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="MDRFernsehenSachsen.de" site_id="256">MDR</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="MelodieTV.at" site_id="1376">MelodieTV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="MoreThanSportsTV.de" site_id="1254">More Than Sports TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Motorvision.de" site_id="264">Motorvision TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="MTV.de" site_id="268">MTV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Musig24TV.ch" site_id="275">musig24</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="MySportsOne.ch" site_id="1543">MySports Eins</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="N24Doku.de" site_id="1030">N24 Doku</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="NationalGeographic.de" site_id="278">National Geographic D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="NationalGeographicWild.de" site_id="282">National Geographic Wild D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="NDRFernsehenHamburg.de" site_id="286">NDR</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Nicktoons.de" site_id="1605">Nicktoons</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Nitro.de" site_id="363">Nitro</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ntv.de" site_id="297">n-tv</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="One.de" site_id="147">One</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="OneMusicTelevision.de" site_id="1790">One Music Television</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ORF1.at" site_id="303">ORF 1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ORF2.at" site_id="302">ORF 2</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ORFIII.at" site_id="1222">ORF 3</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ORFSportPlus.at" site_id="1889">ORF Sport +</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="phoenix.de" site_id="307">Phoenix TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="PremiumShoppingTV.ch" site_id="1724">Premium Shopping</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenFun.de" site_id="1607">pro 7 fun</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenMaxx.de" site_id="323">ProSieben MAXX</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ProSiebenSchweiz.ch" site_id="322">ProSieben</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="PulsAcht.ch" site_id="325">Puls 8</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="R9.at" site_id="326">R9 Österreich</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RadioPilatusTV.ch" site_id="308">Radio Pilatus TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="rbbFernsehenBerlin.de" site_id="342">RBB</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RegioTVplus.ch" site_id="904">regioTVplus</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RheinweltenTV.ch" site_id="1466">Rheinwelten TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RiC.de" site_id="350">RIC TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RomanceTV.de" site_id="354">Romance TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="rrotv.ch" site_id="1784">rrotv</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTL.de" site_id="360">RTL</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLCrime.de" site_id="361">RTL Crime</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLLiving.de" site_id="362">RTL Living</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLPassion.de" site_id="305">RTL Passion</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLSuper.de" site_id="411">Super RTL</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLup.de" site_id="919">RTLup</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="RTLZwei.de" site_id="359">RTL ZWEI</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="S1.ch" site_id="374">S1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SAT1.de" site_id="375">SAT.1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SAT1Gold.de" site_id="377">SAT.1 GOLD</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SchaffhauserFernsehen.ch" site_id="382">SHf - Schaffhauser Fernsehen</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SchlagerDeluxe.de" site_id="1714">Schlager Deluxe</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ServusTV.at" site_id="381">Servus TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="sixx.de" site_id="385">sixx</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SonyChannel.de" site_id="1083">AXN White</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SpiegelGeschichte.de" site_id="395">Spiegel Geschichte</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Sport1.de" site_id="398">Sport1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Sport1Plus.de" site_id="1552">SPORT1+</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SportdigitalFUSSBALL.de" site_id="1554">SPORTDIGITAL FUSSBALL</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SRF1.ch" site_id="399">SRF 1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFernsehen.de" site_id="1502">SR Fernsehen</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFinfo.ch" site_id="400">SRF info</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SRFzwei.ch" site_id="401">SRF zwei</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="StarTV.ch" site_id="405">Star TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="StingrayClassica.ca" site_id="102">Stingray Classica D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Sudostschweiz.ch" site_id="621">TV Südostschweiz</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Swiss1.ch" site_id="1223">SWISS1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SwissSportTV.ch" site_id="1601">Swiss Sport TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SWRFernsehenBadenWurttemberg.de" site_id="414">SWR</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="SYFY.de" site_id="415">Syfy D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="tagesschau24.de" site_id="417">Tagesschau24</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Tele1.ch" site_id="570">Tele 1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TELE5.de" site_id="571">Tele 5</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleBarn.ch" site_id="572">Tele Bärn</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Telebasel.ch" site_id="586">Telebasel</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleBielingue.ch" site_id="573">Tele Bielingue</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleD.ch" site_id="574">Tele D</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleM1.ch" site_id="575">Tele M1</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleTop.ch" site_id="579">Tele Top</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Televista.ch" site_id="1468">Televista</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZ.ch" site_id="583">Tele Z</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZentralschweiz.ch" site_id="584">Tele Zentralschweiz</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TeleZuri.ch" site_id="585">TeleZüri</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TLC.de" site_id="607">TLC</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TOGGOplus.de" site_id="918">Toggo Plus</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TV24.ch" site_id="634">TV24</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TV25.ch" site_id="665">TV25</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TVO.ch" site_id="641">TVO</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TVOberwallis.ch" site_id="628">TV Oberwallis</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="TVRheintal.ch" site_id="630">TV Rheintal</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="UHD1.lu" site_id="669">UHD1 by ASTRA</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="UniversalTV.de" site_id="1124">Universal TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="VolksmusikTV.de" site_id="1766">Volksmusik.TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="VOX.de" site_id="651">VOX</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="Voxup.de" site_id="1612">VOXup</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVComedy.de" site_id="611">Warner TV Comedy</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVFilm.de" site_id="610">Warner TV Film</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WarnerTVSerie.de" site_id="612">Warner TV Serie</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WDRFernsehenKoln.de" site_id="654">WDR</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WELT.de" site_id="277">WELT</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WeltderWunderTV.de" site_id="655">Welt der Wunder TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="WettercomTV.de" site_id="1272">Wetter.TV</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDF.de" site_id="656">ZDF</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDFinfo.de" site_id="658">ZDFinfo</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ZDFneo.de" site_id="659">ZDFneo</channel>
-  <channel site="tv.blue.ch" lang="de" xmltv_id="ZweiMusicTelevision.de" site_id="1791">Zwei Music Television</channel>
-  <channel site="tv.blue.ch" lang="el" xmltv_id="ERTWorld.gr" site_id="153">ERT World</channel>
-  <channel site="tv.blue.ch" lang="el" xmltv_id="RIKSat.cy" site_id="351">RIK Sat</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="4seven.uk" site_id="1678">4Seven</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="5Action.uk" site_id="1669">5Action</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="5SELECT.uk" site_id="1670">5SELECT</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="5STAR.uk" site_id="1652">5Star</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="5USA.uk" site_id="1411">5USA</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Alarabiya.ae" site_id="13">Al Arabiya</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="AlJazeera.qa" site_id="14">Al Jazeera</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCFour.uk" site_id="35">BBC Four</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNews.uk" site_id="36">BBC News</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="40">BBC World News</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCOne.uk" site_id="37">BBC One</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCParliament.uk" site_id="1397">BBC Parliament</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BBCTwo.uk" site_id="39">BBC Two</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="46">Bloomberg TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CBBC.uk" site_id="85">BBC Three / CBBC</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CBeebies.uk" site_id="86">CBeebies</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CBSRealityEMEA.uk" site_id="1717">CBS Reality</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CCTV4Europe.cn" site_id="88">CCTV4</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CGTN.cn" site_id="87">CGTN</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Challenge.uk" site_id="1682">Challenge</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Channel4.uk" site_id="89">Channel 4</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Channel5.uk" site_id="178">Channel 5</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ClublandTV.uk" site_id="105">Clubland TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CNBCEurope.uk" site_id="106">CNBC UK</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="107">CNN</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Dave.uk" site_id="1507">Dave</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="DMAX.uk" site_id="1654">DMAX UK</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Drama.uk" site_id="902">Drama</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="DubaiTV.ae" site_id="138">Dubai TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="E4.uk" site_id="146">E4</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="EnglishClubTV.uk" site_id="1398">English Club TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Eurosport1.fr" site_id="1488">Eurosport 1 E</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="FashionTVEurope.fr" site_id="175">Fashion TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Film4.uk" site_id="176">Film Four</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="FoodNetwork.uk" site_id="1292">Food Network E</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="FunBoxUHD.nl" site_id="1256">Fun Box Ultra</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="GBNews.uk" site_id="1823">GB News</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="GINXEsportsTV.uk" site_id="1408">Ginx TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATaction.uk" site_id="1810">Great! movies action</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATmovies.uk" site_id="1809">Great! movies</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="GREATromance.uk" site_id="1805">Great! Romance</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="i24NEWSEnglishWorld.il" site_id="208">i24 News</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="InsightTV.nl" site_id="1029">INPLUS</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="InsightUHD.nl" site_id="667">INULTRA</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV1.uk" site_id="218">ITV1</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV2.uk" site_id="219">ITV2</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV3.uk" site_id="220">ITV3</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ITV4.uk" site_id="221">ITV4</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="ITVBe.uk" site_id="1400">ITVBe</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="KBSWorld.kr" site_id="1500">KBS World</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="LoveNature4K.ca" site_id="1375">Love Nature 4K</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="More4.uk" site_id="262">More 4</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="NASATVUHD.us" site_id="1378">NASA TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="287">NHK World</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Now70s.uk" site_id="1716">Now 70s</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Now80s.uk" site_id="1715">Now 80s</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="NOWRock.uk" site_id="94">Now Rock</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="PBSAmerica.uk" site_id="1404">PBS America</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="PhoenixInfoNewsChannel.hk" site_id="306">Phoenix Info News</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Quest.uk" site_id="1604">Quest</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="RTRPlanetaEurope.ru" site_id="366">RTR Planeta</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="SkyMix.uk" site_id="1677">Pick</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="390">Sky News International</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayFestival4K.ca" site_id="1257">Stingray Festival 4K</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="StingrayiConcerts.ca" site_id="211">Stingray iConcerts</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="TheIsraeliNetwork.il" site_id="1457">The Israeli Network</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="VoATVGlobal.us" site_id="1637">Voice of America</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Yesterday.uk" site_id="1674">Yesterday</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="24Horas.es" site_id="71">Canal 24 Horas</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="Antena3.es" site_id="1953">Antena 3 Int.</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="AragonTVInternacional.es" site_id="1535">Aragón TV Int</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="Atreseries.es" site_id="1954">Atreseries</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="CanalSurAndalucia.es" site_id="19">Canal Sur Andalucía</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="DePeliculaEuropa.mx" site_id="117">De Pelicula</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="GVAXTV.ch" site_id="1757">GVAX Latino TV</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="LasEstrellasEuropa.mx" site_id="75">Las Estrellas</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="TelehitMusica.mx" site_id="352">Telehit Music</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="Telesur.ve" site_id="1668">teleSUR</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="TlnovelasEuropa.mx" site_id="608">Tlnovelas</channel>
-  <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="13emeRue.fr" site_id="1">13eme Rue</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="6terSwitzerland.ch" site_id="9">6ter</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="AB1.fr" site_id="11">AB1</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="AB3.be" site_id="1081">AB 3</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Action.fr" site_id="12">Action</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="AjoieTV.ch" site_id="1456">Ajoie TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Animaux.fr" site_id="22">Animaux</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="arte.fr" site_id="28">Arte Français</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Automotolachaine.fr" site_id="10">AUTOMOTO</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="BFMBusiness.fr" site_id="42">BFM Business</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="BFMTV.fr" site_id="43">BFM TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="BlueEvent2.ch" site_id="1283">blue Music F 1</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Boing.fr" site_id="52">Cartoonito F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Boomerang.fr" site_id="53">Boomerang F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="C8.fr" site_id="115">C8</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Canal9.ch" site_id="72">Canal 9</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalAlphaJU.ch" site_id="73">Canal Alpha JU</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalAlphaNE.ch" site_id="74">Canal Alpha NE</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalJ.fr" site_id="76">Canal J</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlus.fr" site_id="57">CANAL+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusCinema.fr" site_id="58">CANAL+ Cinema(s)</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusDocs.fr" site_id="1967">Canal+ Docs</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusFoot.fr" site_id="1972">Canal+ Foot</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusKids.fr" site_id="64">CANAL+ Kids</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusPremierLeague.fr" site_id="1947">CANAL+ PREMIER LEAGUE</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSeries.fr" site_id="68">CANAL+ Series</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSport.fr" site_id="69">CANAL+ Sport</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CanalPlusSport360.fr" site_id="1974">Canal+ Sport 360</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CartoonNetwork.fr" site_id="82">Cartoon Network F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ChassePeche.fr" site_id="92">Chasse et Peche</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Cherie25.fr" site_id="93">Chérie 25</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusClassic.fr" site_id="59">Ciné+ Classic</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusClub.fr" site_id="60">Ciné+ Club</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusEmotion.fr" site_id="62">Cine+ Emotion</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusFamiz.fr" site_id="65">Ciné+ Famiz</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusFrisson.fr" site_id="66">Cine+ Frisson</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CinePlusPremier.fr" site_id="67">Ciné + Premier</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CNews.fr" site_id="217">CNEWS</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ComediePlus.fr" site_id="109">Comedie!+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ComedyCentral.fr" site_id="1969">Comedy Central F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CrimeDistrict.fr" site_id="1128">Crime District</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="CStar.fr" site_id="114">CSTAR</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="DiscoveryChannel.fr" site_id="123">Discovery F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="DiscoveryScience.fr" site_id="125">Science Channel F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="DisneyChannel.fr" site_id="129">Disney Channel F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="DisneyJunior.fr" site_id="132">Disney Junior F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Equidia.fr" site_id="151">Equidia Live</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Eurosport2.fr" site_id="171">Eurosport 2 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="France2.fr" site_id="182">France 2</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="France24French.fr" site_id="183">France 24</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="France3.fr" site_id="184">France 3</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="France4.fr" site_id="185">France 4</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="France5.fr" site_id="186">France 5</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Franceinfo.fr" site_id="1064">franceinfo</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="GameOne.fr" site_id="1772">Game One</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="GeneveRegionTelevision.fr" site_id="582">Genève Région Television/TéléVersoix</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="GolfChannel.fr" site_id="192">Golf Channel</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="GolfPlus.fr" site_id="193">GOLF+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="GrandGeneveTV.fr" site_id="1328">Grand Genève TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Gulli.fr" site_id="195">Gulli</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="HistoireTV.fr" site_id="202">histoire</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="i24NEWSFrench.il" site_id="209">i24 News Français</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="InfosportPlus.fr" site_id="213">infosport+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="JOne.fr" site_id="1765">J-One</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="KTO.fr" site_id="232">KTO</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LaChaineMeteo.fr" site_id="1760">la chaîne météo</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LaTele.ch" site_id="242">La Télé</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LCI.fr" site_id="241">La Chaine Info</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LCP.fr" site_id="1658">La Chaîne parlementaire</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LemanBleu.ch" site_id="244">Léman Bleu Télévision</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LEquipe.fr" site_id="245">L'Equipe</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="LFMTV.ch" site_id="246">CARAC 3</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="M6.ch" site_id="249">M6</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Mangas.fr" site_id="252">Mangas</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MaxTV.ch" site_id="253">Max TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MCM.fr" site_id="1532">MCM</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MCMTop.fr" site_id="255">MCM Top</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Melody.fr" site_id="1761">Melody</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Mezzo.fr" site_id="258">Mezzo</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MezzoLive.fr" site_id="1541">Mezzo Live</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MGGTV.fr" site_id="1406">MGGTV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="Motorsporttv.fr" site_id="1723">Motorvision.TV France</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MTV.fr" site_id="1979">MTV France</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports2French.ch" site_id="1558">MySports 2 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports3French.ch" site_id="1559">MySports 3 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports4French.ch" site_id="1560">MySports 4 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports5French.ch" site_id="1561">MySports 5 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports6French.ch" site_id="1562">MySports 6 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports7French.ch" site_id="1563">MySports 7 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports8French.ch" site_id="1564">MySports 8 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySports9French.ch" site_id="1565">MySports 9 F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="MySportsOneFrench.ch" site_id="1557">MySports Un</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NationalGeographic.fr" site_id="279">National Geographic F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NationalGeographicWild.fr" site_id="283">National Geographic Wild F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Nickelodeon.fr" site_id="291">Nickelodeon</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NickelodeonJunior.fr" site_id="290">Nickelodeon Junior</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NickelodeonTeen.fr" site_id="1767">Nickelodeon Teen</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NovelasTV.fr" site_id="1731">Novelas</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NRJ12.fr" site_id="293">NRJ12</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="NRTV.ch" site_id="294">NRTV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="OlympiaTV.fr" site_id="1729">Olympia TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="OneTV.ch" site_id="301">CARAC 2</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ORTBTV.bj" site_id="1686">ORTB</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ParamountChannel.fr" site_id="304">Paramount F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="PiwiPlus.fr" site_id="315">Piwi+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlus.fr" site_id="316">Planète+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlusAventure.fr" site_id="317">Planète+ A&amp;E</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="PlanetePlusCrime.fr" site_id="318">Planète+ C&amp;I</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="PolarPlus.fr" site_id="1273">Polar+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RFMTV.fr" site_id="349">RFM TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCDecouverte.fr" site_id="353">RMC Découverte</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RMCStory.fr" site_id="298">RMC Story</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RougeTV.ch" site_id="355">CARAC 1</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTL9.lu" site_id="364">RTL9</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTS1.ch" site_id="369">RTS 1</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="RTS2.ch" site_id="367">RTS 2</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ScienceVieTV.fr" site_id="379">Science &amp; Vie</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Seasons.fr" site_id="380">Seasons</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="StingrayDJAZZ.ca" site_id="1606">Stingray djazz</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Syfy.fr" site_id="416">Syfy F</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TeleSwizz.ch" site_id="41">Teleswizz</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TeletoonPlus.fr" site_id="595">Télétoon+</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TF1SeriesFilms.fr" site_id="199">TF1 Séries Films</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TF1Switzerland.ch" site_id="601">TF1</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TFXSwitzerland.ch" site_id="295">TFX</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TiJi.fr" site_id="605">Tiji</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TMC.fr" site_id="609">TMC</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Toonami.fr" site_id="1330">WarnerTV Next</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="ToutelHistoire.fr" site_id="615">Toute l'Histoire</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceCaribbean.fr" site_id="616">Trace Caribbean</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceLatina.fr" site_id="1987">Trace Latina</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TraceUrban.fr" site_id="1079">Trace Urban</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="Trek.fr" site_id="618">Trek</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV5MondeEurope.fr" site_id="635">TV5 MONDE EUROPE</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" site_id="636">TV5 Monde FBS</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TV8MontBlanc.fr" site_id="637">TV8 Mont Blanc</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVBreizh.fr" site_id="622">tv breizh</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVM3.ch" site_id="640">TVM3</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVOnex.ch" site_id="1331">TV Onex</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="TVSuissePlus.ch" site_id="1082">CARAC 4</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="UshuaiaTV.fr" site_id="644">Ushuaia TV</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="VernierVisions.ch" site_id="1467">Vernier Visions</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="W9Switzerland.ch" site_id="653">W9</channel>
-  <channel site="tv.blue.ch" lang="fr" xmltv_id="WarnerTV.fr" site_id="1329">Warner TV</channel>
-  <channel site="tv.blue.ch" lang="gl" xmltv_id="GaliciaTVEuropa.es" site_id="624">Televisión de Galicia</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="UtsavGold.in" site_id="403">Utsav Gold</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="UtsavPlus.uk" site_id="404">Utsav Plus</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="AdriaMusicTelevision.de" site_id="1949">ADRIA MUSIC TELEVISION</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="CMCTV.hr" site_id="112">Croatian Music Channel</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="HRT1.hr" site_id="206">HRT 1</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="HRTInternational.hr" site_id="1664">HRT Int.</channel>
-  <channel site="tv.blue.ch" lang="hr" xmltv_id="Z1.hr" site_id="632">Z1 Televizija</channel>
-  <channel site="tv.blue.ch" lang="hu" xmltv_id="Duna.hu" site_id="1529">Duna TV</channel>
-  <channel site="tv.blue.ch" lang="hu" xmltv_id="DunaWorld.hu" site_id="140">Duna World</channel>
-  <channel site="tv.blue.ch" lang="hu" xmltv_id="M1.hu" site_id="1528">M1</channel>
-  <channel site="tv.blue.ch" lang="hu" xmltv_id="M2.hu" site_id="1527">M2</channel>
-  <channel site="tv.blue.ch" lang="hu" xmltv_id="M5.hu" site_id="1531">M5</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="20.it" site_id="1379">20 Mediaset</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="7Gold.it" site_id="1388">Telecity 7 Gold</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="AlmaTV.it" site_id="16">ALMA TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="AntennaTre.it" site_id="1380">Antenna 3</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Boing.it" site_id="51">Boing I</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="CameradeiDeputati.it" site_id="1808">Camera dei Deputati</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Canale5.it" site_id="79">Canale 5</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="CanaleItalia.it" site_id="80">Canale Italia</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Cartoonito.it" site_id="84">cartoonito I</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Cielo.it" site_id="96">Cielo</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Cine34.it" site_id="1665">Cine34</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="ClassTVModa.it" site_id="101">Class TV Moda</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="CrimePlusInvestigation.it" site_id="1975">Sky Crime IT</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="DeejayTV.it" site_id="1641">Deejay TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="DiscoveryChannel.it" site_id="124">Discovery Channel I</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="DMAX.it" site_id="137">DMAX Italia</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="EspansioneTV.it" site_id="1645">Espansione TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="EuronewsItalian.fr" site_id="166">Euronews I</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Eurosport1.it" site_id="169">Eurosport 1 I</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Eurosport2.it" site_id="172">Eurosport 2 I</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Focus.it" site_id="1346">Focus</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="FoodNetwork.it" site_id="1348">Food Network IT</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Frisbee.it" site_id="189">Frisbee</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Giallo.it" site_id="191">Giallo</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="HGTV.it" site_id="1646">Home &amp; Garden TV IT</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="History.it" site_id="1693">History IT</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Iris.it" site_id="214">IRIS</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Italia1.it" site_id="215">Italia 1</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Italia2.it" site_id="216">Italia 2</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="ItaliaChannel.it" site_id="1382">Italia Channel</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="ItalianFishingTV.it" site_id="1644">Italian Fishing TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="K2.it" site_id="225">K2</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="La5.it" site_id="243">La5</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="LA7.it" site_id="237">La 7</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="LA7d.it" site_id="239">La 7d</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="MediasetExtra.it" site_id="257">Mediaset Extra</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="MotorTrend.it" site_id="1384">Motor Trend</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Nove.it" site_id="118">NOVE</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="ParolediVita.it" site_id="1951">Parole di Vita</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioItaliaTV.it" site_id="647">Video Italia TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioNorbaTV.it" site_id="1499">Radionorba TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RadioTicinoChannel.it" site_id="1799">Radio Ticino Channel</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai1.it" site_id="327">Rai 1</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai2.it" site_id="328">Rai 2</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai3.it" site_id="329">Rai 3</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai4.it" site_id="330">Rai 4</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Rai5.it" site_id="331">Rai 5</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiGulp.it" site_id="332">Rai Gulp</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiMovie.it" site_id="334">Rai Movie</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiNews24.it" site_id="335">Rai News 24</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiPremium.it" site_id="336">Rai Premium</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiScuola.it" site_id="337">Rai Scuola</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiSportHD.it" site_id="338">Rai Sport +</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiStoria.it" site_id="340">Rai Storia</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RaiYoyo.it" site_id="341">Rai Yoyo</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RealTime.it" site_id="346">Real Time</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Rete4.it" site_id="348">Rete 4</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RSILa1.ch" site_id="356">RSI La 1</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RSILa2.ch" site_id="357">RSI LA 2</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="RTL1025TV.it" site_id="1489">RTL 102.5 TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="SanMarinoRTV.sm" site_id="1719">San Marino RTV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="SenatoTV.it" site_id="1671">Senato TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="SkyTG24.it" site_id="393">sky TG 24</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Sportitalia.it" site_id="1387">SPORTITALIA</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Super.it" site_id="412">Super!</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="SuperTennis.it" site_id="1386">SuperTennis TV</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Telelombardia.it" site_id="592">Telelombardia</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Telenova.it" site_id="593">Telenova</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="TeleTicino.ch" site_id="578">Tele Ticino</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="TGCom24.it" site_id="1287">TGCom24</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="TopCalcio24.it" site_id="1667">Top Calcio 24</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="TopCrime.it" site_id="613">Top Crime</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="TV2000.it" site_id="633">TV2000</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="TV8.it" site_id="266">TV8</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="Twentyseven.it" site_id="1948">Twentyseven</channel>
-  <channel site="tv.blue.ch" lang="it" xmltv_id="UniNettunoUniversityTV.it" site_id="643">UniNettuno University TV</channel>
-  <channel site="tv.blue.ch" lang="ku" xmltv_id="KurdistanTV.iq" site_id="235">Kurdistan TV</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="RudawTV.iq" site_id="372">Rudaw TV</channel>
-  <channel site="tv.blue.ch" lang="ku" xmltv_id="TRTKurdi.tr" site_id="619">TRT Kurdi</channel>
-  <channel site="tv.blue.ch" lang="nl" xmltv_id="BVN.nl" site_id="56">BVN TV</channel>
-  <channel site="tv.blue.ch" lang="pl" xmltv_id="TVPPolonia.pl" site_id="629">TVP Polonia</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="Canal11.pt" site_id="1980">Canal 11</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="RecordTVEuropa.pt" site_id="347">Record TV</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="RTP3.pt" site_id="1484">RTP 3</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="RTPInternacional.pt" site_id="365">RTP Internacional</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICInternacional.pt" site_id="384">SIC Internacional</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="SICNoticias.pt" site_id="1482">SIC Noticias</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="TVIFiccao.pt" site_id="1487">TVI Ficção</channel>
-  <channel site="tv.blue.ch" lang="pt" xmltv_id="TVIInternacional.pt" site_id="1483">TVI Internacional</channel>
-  <channel site="tv.blue.ch" lang="ro" xmltv_id="Digi24.ro" site_id="1650">Digi 24</channel>
-  <channel site="tv.blue.ch" lang="ro" xmltv_id="PROTVInternational.ro" site_id="321">Pro TV International</channel>
-  <channel site="tv.blue.ch" lang="ro" xmltv_id="TVRInternational.ro" site_id="631">TV Romania International</channel>
-  <channel site="tv.blue.ch" lang="ru" xmltv_id="NashKinomir.de" site_id="229">Kinomir</channel>
-  <channel site="tv.blue.ch" lang="ru" xmltv_id="OstWest.de" site_id="922">OstWest</channel>
-  <channel site="tv.blue.ch" lang="ru" xmltv_id="TelebomTeledom.de" site_id="587">TeleBom - TeleDom</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="ABCNews.al" site_id="1880">ABC News</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="EuronewsAlbania.al" site_id="1894">Euronews AL</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="FaxNews.al" site_id="1895">Fax News</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="Kohavision.xk" site_id="234">KTV Kohavision</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="OraTV.al" site_id="1878">TV Ora</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTK1.xk" site_id="358">RTK1</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTSH3.al" site_id="1681">RTSH 3</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTV21.xk" site_id="370">RTV 21</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="RTVDukagjini.xk" site_id="1446">TV Dukagjini</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="T7.xk" site_id="1689">T7</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="TopChannel.al" site_id="1877">Top Channel</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="TV21.mk" site_id="1893">RTV21 M</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="TVArta.xk" site_id="1896">Arta News</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="TVKlan.al" site_id="1782">TV Klan</channel>
-  <channel site="tv.blue.ch" lang="sq" xmltv_id="ZICOTV.rs" site_id="1679">Zico TV</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="BNMusic.ba" site_id="1649">BN Music</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="DMSat.rs" site_id="135">DM Sat TV</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkExtra.rs" site_id="309">Pink Extra</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkFilm.rs" site_id="310">Pink Film</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkFolk1.rs" site_id="1413">Pink Folk</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkKids.rs" site_id="311">Pink Kids</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkKoncert.rs" site_id="312">Pink Koncert</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkMusic.rs" site_id="313">Pink Music</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkPlus.rs" site_id="314">Pink Plus</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkReality.rs" site_id="1459">Pink Reality</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="PinkSerije.rs" site_id="1692">Pink Serije</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="RTSSvet.rs" site_id="1445">RTS Svet</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="TVDugaPlus.rs" site_id="1662">TV Duga+</channel>
-  <channel site="tv.blue.ch" lang="sr" xmltv_id="TVKCN3.rs" site_id="413">K::CN 3</channel>
-  <channel site="tv.blue.ch" lang="en" xmltv_id="VijayTVAsia.in" site_id="407">Vijay TV</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="360.tr" site_id="394">360</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="ATV.tr" site_id="1718">ATV (TR)</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="ATVAvrupa.tr" site_id="30">ATV Avrupa</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="CNNTurk.tr" site_id="1656">CNN Türk</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroStar.tr" site_id="162">Euro Star</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowMax.tr" site_id="1297">Showmax</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowTV.tr" site_id="383">Show</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEU.tr" site_id="602">TGRT EU</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="1478">TRT Belgesel</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTCocuk.tr" site_id="1477">TRT Çocuk</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTMuzik.tr" site_id="1480">TRT Müzik</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTSpor.tr" site_id="1479">TRT Spor</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TRTTurk.tr" site_id="620">TRT Türk</channel>
-  <channel site="tv.blue.ch" lang="tr" xmltv_id="TV8International.tr" site_id="638">TV8 Int.</channel>
-  </channels>
+</channels>
